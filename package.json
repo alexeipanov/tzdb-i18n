@@ -39,7 +39,8 @@
     "generate-abbreviations": "babel-node generate-abbreviations.js",
     "lint": "prettier --check '**/*.*' && eslint .",
     "prepublishOnly": "npm run build",
-    "test": "npm run lint && npm run build"
+    "test": "npm run lint && npm run build",
+    "translation": "babel-node generate-translations.js"
   },
   "babel": {
     "presets": [

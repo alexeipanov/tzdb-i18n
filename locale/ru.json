@@ -1,0 +1,1262 @@
+{
+ "NU": {
+  "alofi": "Алофи"
+ },
+ "UM": {},
+ "AS": {
+  "pago_pago": "Пагопаго"
+ },
+ "CK": {
+  "avarua": "Аваруа"
+ },
+ "US": {
+  "honolulu": "Гонолулу",
+  "anchorage": "Анкоридж",
+  "fairbanks": "Фэрбанкс",
+  "eagle_river": "Игл-Ривер",
+  "los_angeles": "Лос-Анджелес",
+  "san_diego": "Сан-Диего",
+  "san_jose": "Сан-Хосе",
+  "san_francisco": "Сан-Франциско",
+  "denver": "Денвер",
+  "el_paso": "Эль-Пасо",
+  "albuquerque": "Альбукерке",
+  "colorado_springs": "Колорадо-Спрингс",
+  "phoenix": "Финикс",
+  "tucson": "Тусон",
+  "mesa": "Меса",
+  "chandler": "Чандлер",
+  "chicago": "Чикаго",
+  "houston": "Хьюстон",
+  "san_antonio": "Сан-Антонио",
+  "dallas": "Даллас",
+  "new_york_city": "Нью-Йорк",
+  "brooklyn": "Бруклин",
+  "philadelphia": "Филадельфия"
+ },
+ "PF": {
+  "papeete": "Папеэте"
+ },
+ "MX": {
+  "tijuana": "Тихуана",
+  "mexicali": "Мехикали",
+  "ensenada": "Энсенада",
+  "rosarito": "Росарито",
+  "hermosillo": "Эрмосильо",
+  "ciudad_obregon": "Сьюдад-Обрегон",
+  "ciudad_juarez": "Сьюдад-Хуарес",
+  "mexico_city": "Мехико",
+  "iztapalapa": "Истапалапа",
+  "puebla": "Пуэбла-де-Сарагоса",
+  "reynosa": "Рейноса",
+  "heroica_matamoros": "Матаморос",
+  "nuevo_laredo": "Нуэво-Ларедо",
+  "cancun": "Канкун",
+  "chetumal": "Четумаль",
+  "playa_del_carmen": "Плая-дель-Кармен"
+ },
+ "CA": {
+  "vancouver": "Ванкувер",
+  "surrey": "Суррей",
+  "victoria": "Виктория",
+  "calgary": "Калгари",
+  "edmonton": "Эдмонтон",
+  "red_deer": "Ред-Дир",
+  "sherwood_park": "Шервуд-Парк",
+  "whitehorse": "Уайтхорс",
+  "saskatoon": "Саскатун",
+  "regina": "Реджайна",
+  "prince_albert": "Принс-Альберт",
+  "moose_jaw": "Мус-Джо",
+  "winnipeg": "Виннипег",
+  "brandon": "Брэндон",
+  "steinbach": "Стайнбак",
+  "kenora": "Кенора",
+  "toronto": "Торонто",
+  "montreal": "Монреаль",
+  "ottawa": "Оттава",
+  "mississauga": "Миссиссога",
+  "halifax": "Галифакс",
+  "dartmouth": "Дартмут",
+  "st_johns": "Сент-Джонс",
+  "corner_brook": "Корнер-Брук"
+ },
+ "PN": {
+  "adamstown": "Адамстаун"
+ },
+ "BZ": {
+  "belize_city": "Белиз",
+  "san_ignacio": "Сан-Игнасио",
+  "san_pedro": "Сан-Педро",
+  "orange_walk": "Ориндж-Уолк"
+ },
+ "GT": {
+  "guatemala_city": "Гватемала",
+  "villa_nueva": "Вилья-Нуэва",
+  "mixco": "Мишко",
+  "coban": "Кобан"
+ },
+ "NI": {
+  "managua": "Манагуа",
+  "leon": "Леон",
+  "masaya": "Масая",
+  "chinandega": "Чинандеге"
+ },
+ "CR": {
+  "limon": "Пуэрто-Лимон",
+  "alajuela": "Алахуэла"
+ },
+ "SV": {
+  "san_salvador": "Сан-Сальвадор",
+  "soyapango": "Сояпанго",
+  "santa_ana": "Санта-Ана"
+ },
+ "HN": {
+  "tegucigalpa": "Тегусигальпа",
+  "san_pedro_sula": "Сан-Педро-Сула",
+  "la_ceiba": "Ла-Сейба"
+ },
+ "CL": {
+  "santiago": "Сантьяго",
+  "puente_alto": "Пуэнте-Альто",
+  "antofagasta": "Антофагаста",
+  "vina_del_mar": "Винья-дель-Мар",
+  "punta_arenas": "Пунта Аренас",
+  "puerto_natales": "Пуэрто-Наталес"
+ },
+ "EC": {
+  "quito": "Кито",
+  "guayaquil": "Гуаякиль",
+  "cuenca": "Куэнка",
+  "santo_domingo_de_los_colorados": "Санто-Доминго-де-лос-Колорадос"
+ },
+ "BR": {
+  "rio_branco": "Риу-Бранку",
+  "cruzeiro_do_sul": "Крузейру-ду-Сул",
+  "manaus": "Манаус",
+  "sao_paulo": "Сан-Паулу",
+  "rio_de_janeiro": "Рио-де-Жанейро",
+  "belo_horizonte": "Белу-Оризонти"
+ },
+ "CO": {
+  "bogota": "Санта-Фе-де-Богота",
+  "cali": "Кали",
+  "medellin": "Медельин",
+  "barranquilla": "Барранкилья"
+ },
+ "CU": {
+  "havana": "Гавана",
+  "santiago_de_cuba": "Сантьяго-де-Куба",
+  "camaguey": "Камагуэй",
+  "holguin": "Ольгин"
+ },
+ "TC": {
+  "cockburn_town": "Коберн-Таун"
+ },
+ "KY": {
+  "george_town": "Джорджтаун"
+ },
+ "JM": {
+  "kingston": "Кингстон",
+  "spanish_town": "Спаниш-Таун"
+ },
+ "BS": {
+  "nassau": "Нассау",
+  "freeport": "Фрипорт"
+ },
+ "PA": {
+  "panama": "Панама",
+  "david": "Дэвид"
+ },
+ "HT": {
+  "port_au_prince": "Порт-о-Пренс",
+  "port_de_paix": "Пор-де-Пе"
+ },
+ "PE": {
+  "lima": "Лима",
+  "callao": "Кальяо",
+  "arequipa": "Арекипа",
+  "trujillo": "Трухильо"
+ },
+ "KN": {
+  "basseterre": "Бастер"
+ },
+ "MS": {
+  "brades": "Брейдс",
+  "plymouth": "Плимут"
+ },
+ "BB": {
+  "bridgetown": "Бриджтаун"
+ },
+ "TT": {
+  "port_of_spain": "Порт-оф-Спейн"
+ },
+ "MQ": {
+  "fort_de_france": "Форт-де-Франс",
+  "sainte_marie": "Сент-Мари"
+ },
+ "LC": {
+  "castries": "Кастри"
+ },
+ "BL": {
+  "gustavia": "Густавия"
+ },
+ "BM": {
+  "hamilton": "Гамильтон"
+ },
+ "VC": {
+  "kingstown": "Кингстаун"
+ },
+ "BQ": {
+  "kralendijk": "Кралендейк"
+ },
+ "GP": {
+  "petit_bourg": "Пти-Бург"
+ },
+ "MF": {
+  "marigot": "Мариго"
+ },
+ "AW": {
+  "oranjestad": "Ораньестад"
+ },
+ "SX": {
+  "philipsburg": "Филипсбург"
+ },
+ "VG": {
+  "road_town": "Род-Таун"
+ },
+ "DM": {
+  "roseau": "Розо"
+ },
+ "VI": {
+  "charlotte_amalie": "Шарлота Амалия"
+ },
+ "GD": {
+  "saint_georges": "Сент-Джоржес"
+ },
+ "AG": {
+  "saint_johns": "Сент-Джонс"
+ },
+ "PR": {
+  "san_juan": "Сан-Хуан",
+  "bayamon": "Баямон",
+  "ponce": "Понсе"
+ },
+ "DO": {
+  "santo_domingo": "Санто-Доминго",
+  "santiago_de_los_caballeros": "Сантьяго-де-лос-Кабальерос"
+ },
+ "AI": {
+  "the_valley": "Валли"
+ },
+ "GL": {
+  "nuuk": "Нуук"
+ },
+ "CW": {
+  "willemstad": "Виллемстад"
+ },
+ "BO": {
+  "la_paz": "Ла-Пас",
+  "santa_cruz_de_la_sierra": "Санта-Крус-де-ла-Сиерра",
+  "cochabamba": "Кочабамба",
+  "sucre": "Сукре"
+ },
+ "GY": {
+  "georgetown": "Джорджтаун",
+  "linden": "Линден"
+ },
+ "PY": {
+  "asuncion": "Асунсьон",
+  "ciudad_del_este": "Сьюдад-дель-Эсте",
+  "san_lorenzo": "Сан-Лоренсо"
+ },
+ "VE": {
+  "caracas": "Каракас",
+  "maracaibo": "Маракайбо",
+  "maracay": "Маракай",
+  "valencia": "Валенсия"
+ },
+ "AR": {
+  "buenos_aires": "Буэнос-Айрес",
+  "mar_del_plata": "Мар-дель-Плата"
+ },
+ "AQ": {},
+ "FK": {
+  "stanley": "Порт-Стэнли"
+ },
+ "GF": {
+  "cayenne": "Кайенна",
+  "saint_laurent_du_maroni": "Сен-Лоран-дю-Марони",
+  "kourou": "Кур"
+ },
+ "PM": {},
+ "SR": {
+  "paramaribo": "Парамарибо"
+ },
+ "UY": {
+  "montevideo": "Монтевидео",
+  "salto": "Сальто",
+  "paysandu": "Пайсанду",
+  "las_piedras": "Лас-Пьедрас"
+ },
+ "GS": {
+  "grytviken": "Грютвикен"
+ },
+ "PT": {
+  "ponta_delgada": "Понта-Делгада",
+  "lisbon": "Лиссабон",
+  "porto": "Порту",
+  "amadora": "Амадора",
+  "braga": "Брага"
+ },
+ "CV": {
+  "praia": "Прая",
+  "mindelo": "Минделу"
+ },
+ "CI": {
+  "abidjan": "Абиджан",
+  "bouake": "Буаке",
+  "korhogo": "Корого"
+ },
+ "ML": {
+  "bamako": "Бамако",
+  "sikasso": "Сикасо",
+  "koutiala": "Кутиала",
+  "segou": "Сеги"
+ },
+ "GW": {
+  "bissau": "Бисау"
+ },
+ "GN": {
+  "conakry": "Конакри",
+  "nzerekore": "Нзерекоре",
+  "kankan": "Канкан"
+ },
+ "SN": {
+  "dakar": "Дакар",
+  "pikine": "Пикин",
+  "touba": "Туба"
+ },
+ "IM": {
+  "douglas": "Дуглас"
+ },
+ "IE": {
+  "dublin": "Дублин",
+  "south_dublin": "Южный Дублин",
+  "cork": "Корк",
+  "limerick": "Лимерик"
+ },
+ "SL": {
+  "freetown": "Фритаун",
+  "bo": "Бо",
+  "kenema": "Кенеме",
+  "koidu": "Сефаду"
+ },
+ "SH": {
+  "jamestown": "Джеймстаун"
+ },
+ "GH": {
+  "kumasi": "Кумаси",
+  "accra": "Аккра",
+  "tamale": "Тамале"
+ },
+ "TG": {
+  "lome": "Ломе",
+  "sokode": "Сокоде",
+  "kara": "Кара",
+  "atakpame": "Атакпаме"
+ },
+ "GB": {
+  "london": "Лондон",
+  "birmingham": "Бирмингем",
+  "liverpool": "Ливерпуль",
+  "glasgow": "Глазго"
+ },
+ "LR": {
+  "monrovia": "Монровия",
+  "gbarnga": "Гбарнге",
+  "buchanan": "Бьюкенен"
+ },
+ "MR": {
+  "nouakchott": "Нуакшот",
+  "nouadhibou": "Нуадибу",
+  "kiffa": "Киффа"
+ },
+ "BF": {
+  "ouagadougou": "Уагадугу",
+  "bobo_dioulasso": "Бобо-Диуласо",
+  "koudougou": "Кудугу"
+ },
+ "IS": {
+  "reykjavik": "Рейкьявик",
+  "kopavogur": "Коупавогюр",
+  "hafnarfjordur": "Хабнарфьордюр"
+ },
+ "JE": {
+  "saint_helier": "Сент-Хельер"
+ },
+ "GG": {
+  "saint_peter_port": "Сент-Питер-Порт"
+ },
+ "ST": {
+  "sao_tome": "Сан-Томе"
+ },
+ "GM": {
+  "brikama": "Брикаме",
+  "sukuta": "Сукута"
+ },
+ "MA": {
+  "casablanca": "Касабланка",
+  "rabat": "Рабат",
+  "fes": "Фес",
+  "tangier": "Танжер"
+ },
+ "EH": {
+  "laayoune": "Эль-Аюн",
+  "dakhla": "Дахла"
+ },
+ "ES": {
+  "las_palmas_de_gran_canaria": "Лас-Пальмас-де-Гран-Канария",
+  "santa_cruz_de_tenerife": "Санта-Крус-де-Тенерифе",
+  "la_laguna": "Ла-Лагуна",
+  "telde": "Тельде",
+  "madrid": "Мадрид",
+  "barcelona": "Барселона",
+  "valencia": "Валенсия",
+  "sevilla": "Севилья"
+ },
+ "FO": {
+  "torshavn": "Торсхавн"
+ },
+ "NA": {
+  "windhoek": "Виндхук",
+  "rundu": "Рунду",
+  "walvis_bay": "Уолфиш-Бей",
+  "swakopmund": "Свакопмунд"
+ },
+ "DZ": {
+  "algiers": "Алжир",
+  "oran": "Оран",
+  "constantine": "Константина",
+  "annaba": "Аннаба"
+ },
+ "NL": {
+  "amsterdam": "Амстердам",
+  "rotterdam": "Роттердам",
+  "the_hague": "Гаага",
+  "utrecht": "Утрехт"
+ },
+ "AD": {
+  "andorra_la_vella": "Андорра-ла-Велья",
+  "les_escaldes": "Эскальдес-Энджордани"
+ },
+ "RS": {
+  "belgrade": "Белград",
+  "nis": "Ниш",
+  "novi_sad": "Нови-Сад",
+  "zemun": "Земун"
+ },
+ "DE": {
+  "berlin": "Берлин",
+  "hamburg": "Гамбург",
+  "munich": "Мюнхен",
+  "koln": "Кёльн"
+ },
+ "SK": {
+  "bratislava": "Братислава",
+  "kosice": "Кошице",
+  "nitra": "Нитра",
+  "presov": "Пряшев"
+ },
+ "BE": {
+  "brussels": "Брюссель",
+  "antwerpen": "Антверпен",
+  "gent": "Гент",
+  "charleroi": "Шарлеруа"
+ },
+ "HU": {
+  "budapest": "Будапешт",
+  "debrecen": "Дебрецен",
+  "miskolc": "Мишкольц"
+ },
+ "DK": {
+  "copenhagen": "Копенгаген",
+  "arhus": "Орхус",
+  "odense": "Оденсе",
+  "aalborg": "Ольборг"
+ },
+ "GI": {
+  "gibraltar": "Гибралтар"
+ },
+ "SI": {
+  "ljubljana": "Любляна",
+  "maribor": "Марибор",
+  "kranj": "Крань",
+  "celje": "Целе"
+ },
+ "SJ": {
+  "longyearbyen": "Лонгйир"
+ },
+ "LU": {
+  "luxembourg": "Люксембург",
+  "esch_sur_alzette": "Эш-сюр-Алзетте",
+  "dudelange": "Дюделанж"
+ },
+ "MC": {
+  "monaco": "Монако",
+  "monte_carlo": "Монте-Карло"
+ },
+ "NO": {
+  "oslo": "Осло",
+  "bergen": "Берген",
+  "trondheim": "Тронхейм",
+  "stavanger": "Ставангер"
+ },
+ "FR": {
+  "paris": "Париж",
+  "marseille": "Марсель",
+  "lyon": "Лион",
+  "toulouse": "Тулуза"
+ },
+ "ME": {
+  "podgorica": "Подгорица",
+  "niksic": "Никшич",
+  "herceg_novi": "Херцег-Нови",
+  "pljevlja": "Плевля"
+ },
+ "CZ": {
+  "prague": "Прага",
+  "brno": "Брно",
+  "ostrava": "Острава",
+  "pilsen": "Пльзень"
+ },
+ "IT": {
+  "rome": "Рим",
+  "milan": "Милан",
+  "naples": "Неаполь",
+  "turin": "Турин"
+ },
+ "SM": {
+  "san_marino": "Сан-Марино"
+ },
+ "MT": {
+  "birkirkara": "Биркиркара",
+  "mosta": "Моста",
+  "sliema": "Слима"
+ },
+ "BA": {
+  "sarajevo": "Сараево",
+  "banja_luka": "Баня-Лука",
+  "zenica": "Зеница",
+  "tuzla": "Тузла"
+ },
+ "MK": {
+  "skopje": "Скопье",
+  "kumanovo": "Куманово",
+  "bitola": "Битола"
+ },
+ "SE": {
+  "stockholm": "Стокгольм",
+  "goteborg": "Гётеборг",
+  "malmo": "Мальмё",
+  "uppsala": "Уппсала"
+ },
+ "AL": {
+  "tirana": "Тирана",
+  "durres": "Дуррес",
+  "elbasan": "Эльбасан",
+  "vlore": "Влёра"
+ },
+ "TN": {
+  "tunis": "Тунис",
+  "sfax": "Сфвкс",
+  "sousse": "Сусс",
+  "kairouan": "Кайруан"
+ },
+ "LI": {
+  "vaduz": "Вадуц"
+ },
+ "VA": {
+  "vatican_city": "Ватикан"
+ },
+ "AT": {
+  "vienna": "Вена",
+  "graz": "Грац",
+  "linz": "Линц"
+ },
+ "PL": {
+  "warsaw": "Варшава",
+  "lodz": "Лодзь",
+  "krakow": "Краков",
+  "wroclaw": "Вроцлав"
+ },
+ "HR": {
+  "zagreb": "Загреб",
+  "split": "Сплит",
+  "rijeka": "Риека",
+  "osijek": "Осиек"
+ },
+ "CH": {
+  "zurich": "Цюрих",
+  "geneve": "Женева",
+  "basel": "Базель",
+  "lausanne": "Лозанна"
+ },
+ "CF": {
+  "bangui": "Банги"
+ },
+ "GQ": {
+  "bata": "Бата",
+  "malabo": "Малабо",
+  "ebebiyin": "Эбебьин"
+ },
+ "CG": {
+  "brazzaville": "Браззавиль",
+  "pointe_noire": "Пуэнт-Нуар",
+  "dolisie": "Долиси"
+ },
+ "BJ": {
+  "cotonou": "Котону",
+  "abomey_calavi": "Абомей-Калави",
+  "porto_novo": "Порто-Ново",
+  "parakou": "Параку"
+ },
+ "CM": {
+  "douala": "Дуала",
+  "yaounde": "Яунде",
+  "bamenda": "Баменды",
+  "bafoussam": "Бафуссама"
+ },
+ "CD": {
+  "kinshasa": "Киншаса",
+  "kikwit": "Киквите",
+  "mbandaka": "Мбандака",
+  "lubumbashi": "Лубумбаши",
+  "mbuji_mayi": "Мбужи-Майи",
+  "kananga": "Кананга",
+  "kisangani": "Кисангани"
+ },
+ "NG": {
+  "lagos": "Лагос",
+  "kano": "Кано",
+  "ibadan": "Ибадан",
+  "abuja": "Абуджа"
+ },
+ "GA": {
+  "libreville": "Либревиль",
+  "port_gentil": "Порт-Жантиль",
+  "franceville": "Франсвиль"
+ },
+ "AO": {
+  "luanda": "Луанда",
+  "lubango": "Лубанго",
+  "huambo": "Уамбо",
+  "benguela": "Бенгела"
+ },
+ "TD": {
+  "n_djamena": "Нджамена",
+  "moundou": "Мунду",
+  "abeche": "Абеше",
+  "sarh": "Сарх"
+ },
+ "NE": {
+  "niamey": "Ниамей",
+  "maradi": "Маради",
+  "zinder": "Зиндер",
+  "tahoua": "Тахуа"
+ },
+ "BI": {
+  "bujumbura": "Бужумбура",
+  "gitega": "Гитеге",
+  "ngozi": "Нгози"
+ },
+ "BW": {
+  "gaborone": "Габороне",
+  "francistown": "Франсистаун",
+  "mogoditshane": "Могодитшане",
+  "maun": "Маун"
+ },
+ "ZW": {
+  "harare": "Хараре",
+  "bulawayo": "Булавайо",
+  "chitungwiza": "Читунгвиза",
+  "mutare": "Мутаре"
+ },
+ "SS": {
+  "juba": "Джуба",
+  "yei": "Ей",
+  "malakal": "Малакаль"
+ },
+ "SD": {
+  "khartoum": "Хартум",
+  "omdurman": "Омдурман",
+  "nyala": "Ньяла"
+ },
+ "RW": {
+  "kigali": "Кигали",
+  "gisenyi": "Гисеньи",
+  "butare": "Бутаре",
+  "gitarama": "Гитараме"
+ },
+ "MW": {
+  "lilongwe": "Лилонгве",
+  "blantyre": "Блантайр",
+  "mzuzu": "Мзузу",
+  "zomba": "Зомба"
+ },
+ "ZM": {
+  "lusaka": "Лусака",
+  "kitwe": "Китве",
+  "ndola": "Ндола",
+  "chipata": "Чипата"
+ },
+ "MZ": {
+  "maputo": "Мапуту",
+  "matola": "Матола",
+  "nampula": "Нампула",
+  "beira": "Бейра"
+ },
+ "GR": {
+  "athens": "Афины",
+  "thessaloniki": "Салоники",
+  "piraeus": "Пирей"
+ },
+ "LB": {
+  "beirut": "Бейрут",
+  "tripoli": "Триполи",
+  "sidon": "Сайда"
+ },
+ "RO": {
+  "bucharest": "Бухарест",
+  "iasi": "Яссы"
+ },
+ "EG": {
+  "cairo": "Каир",
+  "alexandria": "Александрия",
+  "giza": "Гиза"
+ },
+ "MD": {
+  "chisinau": "Кишинёв",
+  "tiraspol": "Тирасполь",
+  "balti": "Бельцы",
+  "bender": "Тигина"
+ },
+ "PS": {
+  "east_jerusalem": "Восточный Иерусалим"
+ },
+ "FI": {
+  "helsinki": "Khel'sinki",
+  "espoo": "Эспоо",
+  "tampere": "Тампере",
+  "oulu": "Оулу"
+ },
+ "RU": {
+  "kaliningrad": "Калининград",
+  "chernyakhovsk": "Черняховск",
+  "sovetsk": "Советск",
+  "baltiysk": "Балтийск",
+  "moscow": "Москва",
+  "saint_petersburg": "Ленинград",
+  "nizhniy_novgorod": "Нижний Новгород",
+  "kazan": "Казань",
+  "samara": "Самара",
+  "tolyatti": "Тольятти",
+  "izhevsk": "Ижевск",
+  "yekaterinburg": "Екатеринбург",
+  "chelyabinsk": "Челябинск",
+  "ufa": "Уфа",
+  "perm": "Пермь",
+  "omsk": "Омск",
+  "tara": "Тара",
+  "kalachinsk": "Калачинск",
+  "isilkul": "Исилькуль",
+  "novosibirsk": "Новосибирск",
+  "irkutsk": "Иркутск",
+  "ulan_ude": "Улан-Удэ",
+  "bratsk": "Братск",
+  "angarsk": "Ангарск",
+  "chita": "Чита",
+  "khabarovsk": "Хабаровск",
+  "vladivostok": "Владивосток",
+  "khabarovsk_vtoroy": "Хабаровск Второй",
+  "komsomolsk_on_amur": "Комсомольск-на-Амуре",
+  "yuzhno_sakhalinsk": "Южно-Сахалинск",
+  "korsakov": "Корсаков",
+  "kholmsk": "Холмск",
+  "petropavlovsk_kamchatsky": "Петропавловск-Камчатский",
+  "yelizovo": "Елизово",
+  "vilyuchinsk": "Вилючинск"
+ },
+ "UA": {
+  "kyiv": "Киев",
+  "kharkiv": "Харьков",
+  "odesa": "Одесса",
+  "dnipro": "Днепр",
+  "sevastopol": "Севастополь",
+  "simferopol": "Симферополь",
+  "kerch": "Керчь",
+  "yevpatoriya": "Евпатория"
+ },
+ "AX": {
+  "mariehamn": "Мариехамн"
+ },
+ "CY": {
+  "nicosia": "Никосия",
+  "limassol": "Лимасол",
+  "larnaca": "Ларнака",
+  "strovolos": "Строволос"
+ },
+ "LV": {
+  "riga": "Рига",
+  "daugavpils": "Даугавпилс",
+  "liepaja": "Лиепая",
+  "jelgava": "Елгава"
+ },
+ "BG": {
+  "sofia": "София",
+  "plovdiv": "Пловдив",
+  "varna": "Варна",
+  "burgas": "Бургас"
+ },
+ "EE": {
+  "tallinn": "Таллин",
+  "tartu": "Yurev",
+  "narva": "Нарва",
+  "parnu": "Пярну"
+ },
+ "LY": {
+  "tripoli": "Триполи",
+  "benghazi": "Бенгази",
+  "misratah": "Мисурата",
+  "zliten": "Злитен"
+ },
+ "LT": {
+  "vilnius": "Вильнюс",
+  "kaunas": "Каунас",
+  "klaipeda": "Клайпеда",
+  "siauliai": "Шяуляй"
+ },
+ "IL": {
+  "jerusalem": "Иерусалим",
+  "tel_aviv": "Тель-Авив",
+  "west_jerusalem": "Западный Иерусалим",
+  "haifa": "Хайфа"
+ },
+ "ZA": {
+  "johannesburg": "Йоханнесбург",
+  "cape_town": "Кейптаун",
+  "durban": "Дурбан",
+  "pretoria": "Претория"
+ },
+ "SZ": {
+  "manzini": "Манзини",
+  "mbabane": "Мбабане",
+  "lobamba": "Лобамба"
+ },
+ "LS": {
+  "maseru": "Масеру"
+ },
+ "KW": {},
+ "BH": {
+  "ar_rifa": "Риффа",
+  "manama": "Манама",
+  "al_muharraq": "Аль-Мухаррак"
+ },
+ "IQ": {
+  "baghdad": "Багдад",
+  "mosul": "Мосул"
+ },
+ "QA": {
+  "doha": "Доха"
+ },
+ "SA": {
+  "jeddah": "Джидда",
+  "riyadh": "Эр-Рияд",
+  "makkah": "Мекка",
+  "medina": "Медина"
+ },
+ "YE": {
+  "sanaa": "Сана",
+  "aden": "Аден",
+  "taiz": "Таиз"
+ },
+ "JO": {
+  "amman": "Амман",
+  "zarqa": "Эз-Зарка",
+  "irbid": "Ирбид",
+  "russeifa": "Ар-Русайфа"
+ },
+ "SY": {
+  "aleppo": "Алеппо",
+  "damascus": "Дамаск",
+  "homs": "Хомс",
+  "latakia": "Латакия"
+ },
+ "ET": {
+  "addis_ababa": "Аддис-Абеба",
+  "jijiga": "Джиджига",
+  "gonder": "Гондар",
+  "mekele": "Мэкэле"
+ },
+ "MG": {
+  "antananarivo": "Антананариву",
+  "toamasina": "Туамасина",
+  "antsirabe": "Анцирабе",
+  "mahajanga": "Махадзанга"
+ },
+ "ER": {
+  "asmara": "Асмэра",
+  "keren": "Кэрэн",
+  "massawa": "Массауа"
+ },
+ "TZ": {
+  "dar_es_salaam": "Дар-эс-Салам",
+  "mwanza": "Мванза",
+  "dodoma": "Додома",
+  "zanzibar": "Занзибар"
+ },
+ "DJ": {
+  "djibouti": "Джибути",
+  "ali_sabih": "Али-Сабие",
+  "dikhil": "Дикиль",
+  "tadjoura": "Таджура"
+ },
+ "UG": {
+  "kampala": "Кампала"
+ },
+ "YT": {
+  "mamoudzou": "Мамудзу"
+ },
+ "SO": {
+  "mogadishu": "Могадишо",
+  "borama": "Борама",
+  "hargeysa": "Харгейсе",
+  "berbera": "Бербера"
+ },
+ "KM": {
+  "moroni": "Морони"
+ },
+ "KE": {
+  "nairobi": "Найроби",
+  "kakamega": "Какамеге",
+  "mombasa": "Момбаса",
+  "nakuru": "Накуру"
+ },
+ "BY": {
+  "minsk": "Минск",
+  "homyel": "Гомель",
+  "hrodna": "Гродно",
+  "vitebsk": "Витебск"
+ },
+ "TR": {
+  "istanbul": "Стамбул",
+  "ankara": "Анкара",
+  "bursa": "Бурса",
+  "izmir": "Измир"
+ },
+ "IR": {
+  "tehran": "Тегеран",
+  "mashhad": "Мешхед",
+  "isfahan": "Исфахан",
+  "karaj": "Карай"
+ },
+ "AM": {
+  "yerevan": "Ереван"
+ },
+ "AZ": {
+  "baku": "Баку",
+  "sumqayit": "Сумгаит",
+  "ganja": "Гянджа",
+  "lankaran": "Ленкорань"
+ },
+ "GE": {
+  "tbilisi": "Тбилиси",
+  "batumi": "Батуми",
+  "kutaisi": "Кутаиси",
+  "rustavi": "Рустави"
+ },
+ "AE": {
+  "dubai": "Дубай",
+  "abu_dhabi": "Абу-Даби",
+  "sharjah": "Шарджа",
+  "al_ain_city": "Эль-Айн"
+ },
+ "OM": {
+  "muscat": "Маскат",
+  "seeb": "Эс-Сиб"
+ },
+ "MU": {
+  "port_louis": "Порт-Луи",
+  "curepipe": "Кюрпип"
+ },
+ "RE": {
+  "saint_denis": "Сен-Дени",
+  "saint_pierre": "Сент-Пьер",
+  "le_tampon": "Ле-Тампон"
+ },
+ "SC": {
+  "victoria": "Виктория"
+ },
+ "AF": {
+  "kabul": "Кабул",
+  "herat": "Герат",
+  "mazar_e_sharif": "Мазари-Шариф",
+  "kandahar": "Кандагар"
+ },
+ "KZ": {
+  "almaty": "Алма-Ата",
+  "shymkent": "Шымкент",
+  "karagandy": "Караганда",
+  "taraz": "Тараз",
+  "aktobe": "Актобе"
+ },
+ "TF": {
+  "port_aux_francais": "Порт-о-Франсэ"
+ },
+ "MV": {
+  "male": "Мале"
+ },
+ "PK": {
+  "karachi": "Карачи",
+  "lahore": "Лахор",
+  "faisalabad": "Фейсалабаде",
+  "rawalpindi": "Равалпинди"
+ },
+ "TJ": {
+  "dushanbe": "Душанбе",
+  "isfara": "Исфара",
+  "istaravshan": "Истаравшан",
+  "kulob": "Куляб"
+ },
+ "TM": {
+  "ashgabat": "Ашхабад",
+  "turkmenabat": "Туркменабад",
+  "dasoguz": "Дашогуз",
+  "mary": "Мары"
+ },
+ "UZ": {
+  "tashkent": "Ташкент",
+  "namangan": "Наманган",
+  "andijon": "Андижан"
+ },
+ "LK": {
+  "colombo": "Коломбо",
+  "dehiwala_mount_lavinia": "Дехивала-Маунт-Лавиния",
+  "jaffna": "Джафна"
+ },
+ "IN": {
+  "mumbai": "Мумбаи",
+  "delhi": "Дели",
+  "bengaluru": "Бангалор",
+  "hyderabad": "Хайдарабад"
+ },
+ "NP": {
+  "kathmandu": "Катманду",
+  "bharatpur": "Бхаратпур",
+  "patan": "Лалитпур"
+ },
+ "BD": {
+  "dhaka": "Дакка",
+  "chattogram": "Читтагонг",
+  "gazipur": "Газипур",
+  "khulna": "Кхулна"
+ },
+ "BT": {
+  "thimphu": "Тхимпху",
+  "phuntsholing": "Пхунчолинг",
+  "punakha": "Пунакха"
+ },
+ "CN": {
+  "urumqi": "Урумчи",
+  "shihezi": "Шихэцзы",
+  "korla": "Корла",
+  "aksu": "Аксу",
+  "shanghai": "Шанхай",
+  "beijing": "Пекин",
+  "shenzhen": "Шэньчжэнь",
+  "guangzhou": "Гуанчжоу"
+ },
+ "IO": {},
+ "KG": {
+  "bishkek": "Бишкек",
+  "osh": "Ош",
+  "jalal_abad": "Джалал-Абад",
+  "karakol": "Каракол"
+ },
+ "CC": {},
+ "MM": {
+  "yangon": "Рангун",
+  "mandalay": "Мандалай",
+  "nay_pyi_taw": "Нейпьидо",
+  "mawlamyine": "Моламьяйн"
+ },
+ "CX": {
+  "flying_fish_cove": "Флайинг-Фиш-Коув"
+ },
+ "MN": {
+  "ulaangom": "Улангом",
+  "khovd": "Ховд",
+  "olgii": "Улгий",
+  "ulan_bator": "Улан-Батор",
+  "erdenet": "Эрдэнэт",
+  "darhan": "Дархан",
+  "moron": "Мурэн"
+ },
+ "TH": {
+  "bangkok": "Бангкок",
+  "samut_prakan": "Самутпракан",
+  "mueang_nonthaburi": "Нонтхабури",
+  "chon_buri": "Чонбури"
+ },
+ "VN": {
+  "ho_chi_minh_city": "Хошимин"
+ },
+ "KH": {
+  "phnom_penh": "Пномпень",
+  "siem_reap": "Сием-Реап",
+  "battambang": "Баттамбанг"
+ },
+ "LA": {
+  "vientiane": "Вьентьян",
+  "savannakhet": "Саваннакхет",
+  "pakse": "Паксе"
+ },
+ "ID": {
+  "jakarta": "Джакарта",
+  "surabaya": "Сурабая",
+  "bekasi": "Бекаси",
+  "bandung": "Бандунг",
+  "makassar": "Макассар",
+  "samarinda": "Самаринда",
+  "denpasar": "Денпасар",
+  "balikpapan": "Баликпапан",
+  "jayapura": "Джаяпура",
+  "ambon": "Амбон",
+  "sorong": "Соронг",
+  "ternate": "Тернате"
+ },
+ "AU": {
+  "perth": "Перт",
+  "mandurah": "Мандъюра",
+  "bunbury": "Банбери",
+  "adelaide": "Аделаида",
+  "mount_gambier": "Маунт-Гамбиер",
+  "darwin": "Дарвин",
+  "alice_springs": "Алис-Спрингс",
+  "palmerston": "Палмерстон",
+  "brisbane": "Брисбен",
+  "gold_coast": "Голд Коуст",
+  "townsville": "Таунсвилл",
+  "sydney": "Сидней",
+  "canberra": "Канберра",
+  "newcastle": "Ньюкасл"
+ },
+ "BN": {
+  "bandar_seri_begawan": "Бандар-Сери-Бегаван",
+  "kuala_belait": "Куала-Белайт"
+ },
+ "MO": {
+  "macau": "Макао"
+ },
+ "HK": {
+  "hong_kong": "Гонконг",
+  "kowloon": "Цзюлун"
+ },
+ "MY": {
+  "kuala_lumpur": "Куала-Лумпур",
+  "petaling_jaya": "Петалинг-Джая",
+  "klang": "Кланг",
+  "johor_bahru": "Джохор-Бару"
+ },
+ "PH": {
+  "quezon_city": "Кесон-Сити",
+  "davao": "Давао",
+  "manila": "Манила"
+ },
+ "SG": {
+  "singapore": "Сингапур"
+ },
+ "TW": {
+  "taipei": "Тайбэй",
+  "kaohsiung": "Гаосюн",
+  "taichung": "Тайчжун"
+ },
+ "TL": {
+  "dili": "Дили",
+  "suai": "Суаи"
+ },
+ "JP": {
+  "tokyo": "Токио",
+  "yokohama": "Иокогама",
+  "osaka": "Осака",
+  "nagoya": "Нагоя"
+ },
+ "KP": {
+  "pyongyang": "Пхеньян",
+  "nampo": "Нампхо"
+ },
+ "KR": {
+  "seoul": "Сеул",
+  "busan": "Пусан",
+  "incheon": "Инчхон",
+  "daegu": "Тэгу"
+ },
+ "PW": {
+  "ngerulmud": "Нгерулмуд"
+ },
+ "GU": {
+  "tamuning": "Тамунинг"
+ },
+ "MP": {
+  "saipan": "Сайпан"
+ },
+ "FM": {},
+ "PG": {
+  "port_moresby": "Порт-Морсби",
+  "lae": "Лаэ",
+  "popondetta": "Попондетта",
+  "arawa": "Арава"
+ },
+ "NC": {
+  "noumea": "Нумеа"
+ },
+ "NF": {
+  "kingston": "Кингстон"
+ },
+ "SB": {
+  "honiara": "Хониара"
+ },
+ "VU": {
+  "port_vila": "Порт-Вила"
+ },
+ "FJ": {
+  "suva": "Сува",
+  "lautoka": "Лаутока",
+  "nadi": "Нанди"
+ },
+ "KI": {
+  "tarawa": "Южная Тарава"
+ },
+ "MH": {
+  "majuro": "Маджуро"
+ },
+ "NR": {
+  "yaren": "Ярен"
+ },
+ "NZ": {
+  "auckland": "Окленд",
+  "wellington": "Веллингтон",
+  "christchurch": "Крайстчёрч"
+ },
+ "TV": {},
+ "WF": {
+  "mata_utu": "Мата-Уту"
+ },
+ "WS": {
+  "apia": "Апиа"
+ },
+ "TK": {},
+ "TO": {
+  "nuku_alofa": "Нукуалофа"
+ }
+}

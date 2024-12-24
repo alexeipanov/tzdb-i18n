@@ -7,7 +7,7 @@ import { parse as csvParseSync } from "csv-parse/sync";
 import unzipper from "unzipper";
 import got from "got";
 import { DateTime } from "luxon";
-import { orderBy, uniq } from "lodash";
+import { orderBy, snakeCase, uniq } from "lodash";
 import tzdata from "tzdata";
 
 import abbreviations from "./abbreviations.json";
@@ -192,6 +192,9 @@ async function run() {
 
   const rawTimeZones = [];
 
+  let translations = {};
+  const cityTranslations = fs.createWriteStream("./locale/en.json");
+
   for (let [countryCode, countryTimeZones] of Object.entries(countryStats)) {
     const continentCode = countriesToContinents[countryCode];
 
@@ -257,7 +260,7 @@ async function run() {
         continentName: continents[continentCode],
         countryName: countries[countryCode],
         countryCode,
-        mainCities,
+        mainCities: mainCities.map((city) => { return snakeCase(city); }),
         rawOffsetInMinutes: parseFloat(
           timeZonesInfo[timeZoneName].rawOffset * 60,
         ),
@@ -271,8 +274,43 @@ async function run() {
         ...rawTimeZone,
         rawFormat: formatTimeZone(rawTimeZone),
       });
+
+      mainCities.forEach((city) => {
+        translations[countryCode] = { ...translations[countryCode], ...Object.fromEntries([[snakeCase(city), city]])};
+      });
     }
   }
+
+  cityTranslations.write(JSON.stringify(translations, null, " "));
+  cityTranslations.end();
+
+  let collations = [];
+  const cityCollation = fs.createWriteStream("city-collation.json");
+
+  const cities15 = got
+    .stream("https://download.geonames.org/export/dump/cities15000.zip")
+    .pipe(unzipper.ParseOne());
+
+    const citiesParser15 = cities15.pipe(
+      csvParse({
+        delimiter: "\t",
+        skipRecordsWithError: true,
+      }),
+    );
+
+    for await (const cityFields of citiesParser15) {
+      rawTimeZones.forEach((raw) => {
+        raw.mainCities.forEach((m) => {
+          if (raw.name === cityFields[17] && raw.countryCode === cityFields[8] && m === snakeCase(cityFields[1])) {
+            collations.push({ country: raw.countryCode, city: m, geonameid: Number(cityFields[0]) });
+          }
+        });
+      });
+    }
+
+
+  cityCollation.write(JSON.stringify(collations, null, " "));
+  cityCollation.end();
 
   timeZonesLinks.forEach(([link, target]) => {
     const isLinkAlreadyAMainTimeZone = rawTimeZones.some((rawTimeZone) => {

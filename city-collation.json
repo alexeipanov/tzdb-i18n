@@ -1,0 +1,4647 @@
+[
+ {
+  "country": "AD",
+  "city": "les_escaldes",
+  "geonameid": 3040051
+ },
+ {
+  "country": "AD",
+  "city": "andorra_la_vella",
+  "geonameid": 3041563
+ },
+ {
+  "country": "AE",
+  "city": "dubai",
+  "geonameid": 292223
+ },
+ {
+  "country": "AE",
+  "city": "sharjah",
+  "geonameid": 292672
+ },
+ {
+  "country": "AE",
+  "city": "al_ain_city",
+  "geonameid": 292913
+ },
+ {
+  "country": "AE",
+  "city": "abu_dhabi",
+  "geonameid": 292968
+ },
+ {
+  "country": "AF",
+  "city": "mazar_e_sharif",
+  "geonameid": 1133616
+ },
+ {
+  "country": "AF",
+  "city": "kandahar",
+  "geonameid": 1138336
+ },
+ {
+  "country": "AF",
+  "city": "kabul",
+  "geonameid": 1138958
+ },
+ {
+  "country": "AF",
+  "city": "herat",
+  "geonameid": 1140026
+ },
+ {
+  "country": "AG",
+  "city": "saint_johns",
+  "geonameid": 3576022
+ },
+ {
+  "country": "AI",
+  "city": "the_valley",
+  "geonameid": 3573374
+ },
+ {
+  "country": "AL",
+  "city": "elbasan",
+  "geonameid": 783263
+ },
+ {
+  "country": "AL",
+  "city": "vlore",
+  "geonameid": 3183719
+ },
+ {
+  "country": "AL",
+  "city": "tirana",
+  "geonameid": 3183875
+ },
+ {
+  "country": "AL",
+  "city": "durres",
+  "geonameid": 3185728
+ },
+ {
+  "country": "AM",
+  "city": "yerevan",
+  "geonameid": 616052
+ },
+ {
+  "country": "AM",
+  "city": "nor_nork",
+  "geonameid": 866153
+ },
+ {
+  "country": "AM",
+  "city": "malatia_sebastia",
+  "geonameid": 7670934
+ },
+ {
+  "country": "AM",
+  "city": "shengavit",
+  "geonameid": 11111027
+ },
+ {
+  "country": "AO",
+  "city": "luanda",
+  "geonameid": 2240449
+ },
+ {
+  "country": "AO",
+  "city": "lubango",
+  "geonameid": 3347762
+ },
+ {
+  "country": "AO",
+  "city": "huambo",
+  "geonameid": 3348313
+ },
+ {
+  "country": "AO",
+  "city": "benguela",
+  "geonameid": 3351663
+ },
+ {
+  "country": "AR",
+  "city": "mar_del_plata",
+  "geonameid": 3430863
+ },
+ {
+  "country": "AR",
+  "city": "buenos_aires",
+  "geonameid": 3435910
+ },
+ {
+  "country": "AS",
+  "city": "pago_pago",
+  "geonameid": 5881576
+ },
+ {
+  "country": "AT",
+  "city": "vienna",
+  "geonameid": 2761369
+ },
+ {
+  "country": "AT",
+  "city": "linz",
+  "geonameid": 2772400
+ },
+ {
+  "country": "AT",
+  "city": "graz",
+  "geonameid": 2778067
+ },
+ {
+  "country": "AT",
+  "city": "favoriten",
+  "geonameid": 8063098
+ },
+ {
+  "country": "AU",
+  "city": "perth",
+  "geonameid": 2063523
+ },
+ {
+  "country": "AU",
+  "city": "morphett_vale",
+  "geonameid": 2065740
+ },
+ {
+  "country": "AU",
+  "city": "mandurah",
+  "geonameid": 2067119
+ },
+ {
+  "country": "AU",
+  "city": "darwin",
+  "geonameid": 2073124
+ },
+ {
+  "country": "AU",
+  "city": "bunbury",
+  "geonameid": 2075432
+ },
+ {
+  "country": "AU",
+  "city": "alice_springs",
+  "geonameid": 2077895
+ },
+ {
+  "country": "AU",
+  "city": "adelaide",
+  "geonameid": 2078025
+ },
+ {
+  "country": "AU",
+  "city": "townsville",
+  "geonameid": 2146142
+ },
+ {
+  "country": "AU",
+  "city": "sydney",
+  "geonameid": 2147714
+ },
+ {
+  "country": "AU",
+  "city": "newcastle",
+  "geonameid": 2155472
+ },
+ {
+  "country": "AU",
+  "city": "mount_gambier",
+  "geonameid": 2156643
+ },
+ {
+  "country": "AU",
+  "city": "gold_coast",
+  "geonameid": 2165087
+ },
+ {
+  "country": "AU",
+  "city": "canberra",
+  "geonameid": 2172517
+ },
+ {
+  "country": "AU",
+  "city": "brisbane",
+  "geonameid": 2174003
+ },
+ {
+  "country": "AU",
+  "city": "palmerston",
+  "geonameid": 6301965
+ },
+ {
+  "country": "AU",
+  "city": "logan_city",
+  "geonameid": 7281838
+ },
+ {
+  "country": "AU",
+  "city": "adelaide_hills",
+  "geonameid": 7302628
+ },
+ {
+  "country": "AU",
+  "city": "baldivis",
+  "geonameid": 8349017
+ },
+ {
+  "country": "AW",
+  "city": "tanki_leendert",
+  "geonameid": 3577072
+ },
+ {
+  "country": "AW",
+  "city": "san_nicolas",
+  "geonameid": 3577089
+ },
+ {
+  "country": "AW",
+  "city": "oranjestad",
+  "geonameid": 3577154
+ },
+ {
+  "country": "AW",
+  "city": "noord",
+  "geonameid": 3577159
+ },
+ {
+  "country": "AX",
+  "city": "mariehamn",
+  "geonameid": 3041732
+ },
+ {
+  "country": "AZ",
+  "city": "lankaran",
+  "geonameid": 147622
+ },
+ {
+  "country": "AZ",
+  "city": "sumqayit",
+  "geonameid": 584923
+ },
+ {
+  "country": "AZ",
+  "city": "ganja",
+  "geonameid": 586523
+ },
+ {
+  "country": "AZ",
+  "city": "baku",
+  "geonameid": 587084
+ },
+ {
+  "country": "BA",
+  "city": "zenica",
+  "geonameid": 3186573
+ },
+ {
+  "country": "BA",
+  "city": "tuzla",
+  "geonameid": 3188582
+ },
+ {
+  "country": "BA",
+  "city": "sarajevo",
+  "geonameid": 3191281
+ },
+ {
+  "country": "BA",
+  "city": "banja_luka",
+  "geonameid": 3204541
+ },
+ {
+  "country": "BB",
+  "city": "bridgetown",
+  "geonameid": 3374036
+ },
+ {
+  "country": "BD",
+  "city": "dhaka",
+  "geonameid": 1185241
+ },
+ {
+  "country": "BD",
+  "city": "gazipur",
+  "geonameid": 1200109
+ },
+ {
+  "country": "BD",
+  "city": "chattogram",
+  "geonameid": 1205733
+ },
+ {
+  "country": "BD",
+  "city": "khulna",
+  "geonameid": 1336135
+ },
+ {
+  "country": "BE",
+  "city": "gent",
+  "geonameid": 2797656
+ },
+ {
+  "country": "BE",
+  "city": "charleroi",
+  "geonameid": 2800481
+ },
+ {
+  "country": "BE",
+  "city": "brussels",
+  "geonameid": 2800866
+ },
+ {
+  "country": "BE",
+  "city": "antwerpen",
+  "geonameid": 2803138
+ },
+ {
+  "country": "BF",
+  "city": "saaba",
+  "geonameid": 2356157
+ },
+ {
+  "country": "BF",
+  "city": "ouagadougou",
+  "geonameid": 2357048
+ },
+ {
+  "country": "BF",
+  "city": "koudougou",
+  "geonameid": 2358946
+ },
+ {
+  "country": "BF",
+  "city": "bobo_dioulasso",
+  "geonameid": 2362344
+ },
+ {
+  "country": "BG",
+  "city": "varna",
+  "geonameid": 726050
+ },
+ {
+  "country": "BG",
+  "city": "sofia",
+  "geonameid": 727011
+ },
+ {
+  "country": "BG",
+  "city": "plovdiv",
+  "geonameid": 728193
+ },
+ {
+  "country": "BG",
+  "city": "burgas",
+  "geonameid": 732770
+ },
+ {
+  "country": "BH",
+  "city": "dar_kulayb",
+  "geonameid": 290269
+ },
+ {
+  "country": "BH",
+  "city": "al_muharraq",
+  "geonameid": 290332
+ },
+ {
+  "country": "BH",
+  "city": "manama",
+  "geonameid": 290340
+ },
+ {
+  "country": "BH",
+  "city": "ar_rifa",
+  "geonameid": 385038
+ },
+ {
+  "country": "BI",
+  "city": "rumonge",
+  "geonameid": 423549
+ },
+ {
+  "country": "BI",
+  "city": "bujumbura",
+  "geonameid": 425378
+ },
+ {
+  "country": "BI",
+  "city": "gitega",
+  "geonameid": 426272
+ },
+ {
+  "country": "BI",
+  "city": "ngozi",
+  "geonameid": 430569
+ },
+ {
+  "country": "BJ",
+  "city": "porto_novo",
+  "geonameid": 2392087
+ },
+ {
+  "country": "BJ",
+  "city": "parakou",
+  "geonameid": 2392204
+ },
+ {
+  "country": "BJ",
+  "city": "cotonou",
+  "geonameid": 2394819
+ },
+ {
+  "country": "BJ",
+  "city": "abomey_calavi",
+  "geonameid": 2395914
+ },
+ {
+  "country": "BL",
+  "city": "gustavia",
+  "geonameid": 3579132
+ },
+ {
+  "country": "BM",
+  "city": "hamilton",
+  "geonameid": 3573197
+ },
+ {
+  "country": "BN",
+  "city": "kuala_belait",
+  "geonameid": 1820491
+ },
+ {
+  "country": "BN",
+  "city": "sengkurong",
+  "geonameid": 1820575
+ },
+ {
+  "country": "BN",
+  "city": "mentiri",
+  "geonameid": 1820635
+ },
+ {
+  "country": "BN",
+  "city": "bandar_seri_begawan",
+  "geonameid": 1820906
+ },
+ {
+  "country": "BO",
+  "city": "sucre",
+  "geonameid": 3903987
+ },
+ {
+  "country": "BO",
+  "city": "santa_cruz_de_la_sierra",
+  "geonameid": 3904906
+ },
+ {
+  "country": "BO",
+  "city": "la_paz",
+  "geonameid": 3911925
+ },
+ {
+  "country": "BO",
+  "city": "cochabamba",
+  "geonameid": 3919968
+ },
+ {
+  "country": "BQ",
+  "city": "kralendijk",
+  "geonameid": 3513563
+ },
+ {
+  "country": "BR",
+  "city": "sao_paulo",
+  "geonameid": 3448439
+ },
+ {
+  "country": "BR",
+  "city": "rio_de_janeiro",
+  "geonameid": 3451190
+ },
+ {
+  "country": "BR",
+  "city": "belo_horizonte",
+  "geonameid": 3470127
+ },
+ {
+  "country": "BR",
+  "city": "sena_madureira",
+  "geonameid": 3662155
+ },
+ {
+  "country": "BR",
+  "city": "rio_branco",
+  "geonameid": 3662574
+ },
+ {
+  "country": "BR",
+  "city": "manaus",
+  "geonameid": 3663517
+ },
+ {
+  "country": "BR",
+  "city": "cruzeiro_do_sul",
+  "geonameid": 3664464
+ },
+ {
+  "country": "BR",
+  "city": "senador_guiomard",
+  "geonameid": 3924752
+ },
+ {
+  "country": "BS",
+  "city": "nassau",
+  "geonameid": 3571824
+ },
+ {
+  "country": "BS",
+  "city": "lucaya",
+  "geonameid": 3571971
+ },
+ {
+  "country": "BS",
+  "city": "killarney",
+  "geonameid": 3572106
+ },
+ {
+  "country": "BS",
+  "city": "freeport",
+  "geonameid": 3572375
+ },
+ {
+  "country": "BT",
+  "city": "thimphu",
+  "geonameid": 1252416
+ },
+ {
+  "country": "BT",
+  "city": "punakha",
+  "geonameid": 1252479
+ },
+ {
+  "country": "BT",
+  "city": "phuntsholing",
+  "geonameid": 1252484
+ },
+ {
+  "country": "BT",
+  "city": "tsirang",
+  "geonameid": 1252608
+ },
+ {
+  "country": "BW",
+  "city": "mogoditshane",
+  "geonameid": 933331
+ },
+ {
+  "country": "BW",
+  "city": "maun",
+  "geonameid": 933366
+ },
+ {
+  "country": "BW",
+  "city": "gaborone",
+  "geonameid": 933773
+ },
+ {
+  "country": "BW",
+  "city": "francistown",
+  "geonameid": 933778
+ },
+ {
+  "country": "BY",
+  "city": "vitebsk",
+  "geonameid": 620127
+ },
+ {
+  "country": "BY",
+  "city": "minsk",
+  "geonameid": 625144
+ },
+ {
+  "country": "BY",
+  "city": "hrodna",
+  "geonameid": 627904
+ },
+ {
+  "country": "BY",
+  "city": "homyel",
+  "geonameid": 627907
+ },
+ {
+  "country": "BZ",
+  "city": "san_pedro",
+  "geonameid": 3581164
+ },
+ {
+  "country": "BZ",
+  "city": "san_ignacio",
+  "geonameid": 3581194
+ },
+ {
+  "country": "BZ",
+  "city": "orange_walk",
+  "geonameid": 3581514
+ },
+ {
+  "country": "BZ",
+  "city": "belize_city",
+  "geonameid": 3582677
+ },
+ {
+  "country": "CA",
+  "city": "brandon",
+  "geonameid": 5907896
+ },
+ {
+  "country": "CA",
+  "city": "calgary",
+  "geonameid": 5913490
+ },
+ {
+  "country": "CA",
+  "city": "conception_bay_south",
+  "geonameid": 5926511
+ },
+ {
+  "country": "CA",
+  "city": "corner_brook",
+  "geonameid": 5927969
+ },
+ {
+  "country": "CA",
+  "city": "dartmouth",
+  "geonameid": 5935277
+ },
+ {
+  "country": "CA",
+  "city": "edmonton",
+  "geonameid": 5946768
+ },
+ {
+  "country": "CA",
+  "city": "kenora",
+  "geonameid": 5991055
+ },
+ {
+  "country": "CA",
+  "city": "mississauga",
+  "geonameid": 6075357
+ },
+ {
+  "country": "CA",
+  "city": "montreal",
+  "geonameid": 6077243
+ },
+ {
+  "country": "CA",
+  "city": "moose_jaw",
+  "geonameid": 6078112
+ },
+ {
+  "country": "CA",
+  "city": "mount_pearl",
+  "geonameid": 6082231
+ },
+ {
+  "country": "CA",
+  "city": "ottawa",
+  "geonameid": 6094817
+ },
+ {
+  "country": "CA",
+  "city": "prince_albert",
+  "geonameid": 6113335
+ },
+ {
+  "country": "CA",
+  "city": "red_deer",
+  "geonameid": 6118158
+ },
+ {
+  "country": "CA",
+  "city": "regina",
+  "geonameid": 6119109
+ },
+ {
+  "country": "CA",
+  "city": "saskatoon",
+  "geonameid": 6141256
+ },
+ {
+  "country": "CA",
+  "city": "sherwood_park",
+  "geonameid": 6146279
+ },
+ {
+  "country": "CA",
+  "city": "steinbach",
+  "geonameid": 6156102
+ },
+ {
+  "country": "CA",
+  "city": "surrey",
+  "geonameid": 6159905
+ },
+ {
+  "country": "CA",
+  "city": "toronto",
+  "geonameid": 6167865
+ },
+ {
+  "country": "CA",
+  "city": "vancouver",
+  "geonameid": 6173331
+ },
+ {
+  "country": "CA",
+  "city": "victoria",
+  "geonameid": 6174041
+ },
+ {
+  "country": "CA",
+  "city": "whitehorse",
+  "geonameid": 6180550
+ },
+ {
+  "country": "CA",
+  "city": "winnipeg",
+  "geonameid": 6183235
+ },
+ {
+  "country": "CA",
+  "city": "halifax",
+  "geonameid": 6324729
+ },
+ {
+  "country": "CA",
+  "city": "st_johns",
+  "geonameid": 6324733
+ },
+ {
+  "country": "CA",
+  "city": "okanagan",
+  "geonameid": 7281931
+ },
+ {
+  "country": "CC",
+  "city": "west_island",
+  "geonameid": 7304591
+ },
+ {
+  "country": "CD",
+  "city": "mbuji_mayi",
+  "geonameid": 209228
+ },
+ {
+  "country": "CD",
+  "city": "kisangani",
+  "geonameid": 212730
+ },
+ {
+  "country": "CD",
+  "city": "kananga",
+  "geonameid": 214481
+ },
+ {
+  "country": "CD",
+  "city": "lubumbashi",
+  "geonameid": 922704
+ },
+ {
+  "country": "CD",
+  "city": "mbandaka",
+  "geonameid": 2312895
+ },
+ {
+  "country": "CD",
+  "city": "kinshasa",
+  "geonameid": 2314302
+ },
+ {
+  "country": "CD",
+  "city": "kikwit",
+  "geonameid": 2314705
+ },
+ {
+  "country": "CD",
+  "city": "masina",
+  "geonameid": 2593460
+ },
+ {
+  "country": "CF",
+  "city": "carnot",
+  "geonameid": 2387495
+ },
+ {
+  "country": "CF",
+  "city": "bimbo",
+  "geonameid": 2388873
+ },
+ {
+  "country": "CF",
+  "city": "begoua",
+  "geonameid": 2389422
+ },
+ {
+  "country": "CF",
+  "city": "bangui",
+  "geonameid": 2389853
+ },
+ {
+  "country": "CG",
+  "city": "pointe_noire",
+  "geonameid": 2255414
+ },
+ {
+  "country": "CG",
+  "city": "dolisie",
+  "geonameid": 2258261
+ },
+ {
+  "country": "CG",
+  "city": "brazzaville",
+  "geonameid": 2260535
+ },
+ {
+  "country": "CG",
+  "city": "nkayi",
+  "geonameid": 8521334
+ },
+ {
+  "country": "CH",
+  "city": "zurich",
+  "geonameid": 2657896
+ },
+ {
+  "country": "CH",
+  "city": "lausanne",
+  "geonameid": 2659994
+ },
+ {
+  "country": "CH",
+  "city": "geneve",
+  "geonameid": 2660646
+ },
+ {
+  "country": "CH",
+  "city": "basel",
+  "geonameid": 2661604
+ },
+ {
+  "country": "CI",
+  "city": "korhogo",
+  "geonameid": 2286304
+ },
+ {
+  "country": "CI",
+  "city": "bouake",
+  "geonameid": 2290956
+ },
+ {
+  "country": "CI",
+  "city": "abobo",
+  "geonameid": 2293521
+ },
+ {
+  "country": "CI",
+  "city": "abidjan",
+  "geonameid": 2293538
+ },
+ {
+  "country": "CK",
+  "city": "avarua",
+  "geonameid": 4035715
+ },
+ {
+  "country": "CL",
+  "city": "vina_del_mar",
+  "geonameid": 3868121
+ },
+ {
+  "country": "CL",
+  "city": "santiago",
+  "geonameid": 3871336
+ },
+ {
+  "country": "CL",
+  "city": "punta_arenas",
+  "geonameid": 3874787
+ },
+ {
+  "country": "CL",
+  "city": "puerto_natales",
+  "geonameid": 3874958
+ },
+ {
+  "country": "CL",
+  "city": "puente_alto",
+  "geonameid": 3875024
+ },
+ {
+  "country": "CL",
+  "city": "antofagasta",
+  "geonameid": 3899539
+ },
+ {
+  "country": "CM",
+  "city": "yaounde",
+  "geonameid": 2220957
+ },
+ {
+  "country": "CM",
+  "city": "douala",
+  "geonameid": 2232593
+ },
+ {
+  "country": "CM",
+  "city": "bamenda",
+  "geonameid": 2234974
+ },
+ {
+  "country": "CM",
+  "city": "bafoussam",
+  "geonameid": 2235189
+ },
+ {
+  "country": "CN",
+  "city": "urumqi",
+  "geonameid": 1529102
+ },
+ {
+  "country": "CN",
+  "city": "shihezi",
+  "geonameid": 1529195
+ },
+ {
+  "country": "CN",
+  "city": "korla",
+  "geonameid": 1529376
+ },
+ {
+  "country": "CN",
+  "city": "aksu",
+  "geonameid": 1529660
+ },
+ {
+  "country": "CN",
+  "city": "shenzhen",
+  "geonameid": 1795565
+ },
+ {
+  "country": "CN",
+  "city": "shanghai",
+  "geonameid": 1796236
+ },
+ {
+  "country": "CN",
+  "city": "guangzhou",
+  "geonameid": 1809858
+ },
+ {
+  "country": "CN",
+  "city": "beijing",
+  "geonameid": 1816670
+ },
+ {
+  "country": "CO",
+  "city": "medellin",
+  "geonameid": 3674962
+ },
+ {
+  "country": "CO",
+  "city": "cali",
+  "geonameid": 3687925
+ },
+ {
+  "country": "CO",
+  "city": "bogota",
+  "geonameid": 3688689
+ },
+ {
+  "country": "CO",
+  "city": "barranquilla",
+  "geonameid": 3689147
+ },
+ {
+  "country": "CR",
+  "city": "san_jose",
+  "geonameid": 3621841
+ },
+ {
+  "country": "CR",
+  "city": "san_jose",
+  "geonameid": 3621849
+ },
+ {
+  "country": "CR",
+  "city": "san_francisco",
+  "geonameid": 3621911
+ },
+ {
+  "country": "CR",
+  "city": "limon",
+  "geonameid": 3622247
+ },
+ {
+  "country": "CR",
+  "city": "alajuela",
+  "geonameid": 3624955
+ },
+ {
+  "country": "CU",
+  "city": "santiago_de_cuba",
+  "geonameid": 3536729
+ },
+ {
+  "country": "CU",
+  "city": "havana",
+  "geonameid": 3553478
+ },
+ {
+  "country": "CU",
+  "city": "holguin",
+  "geonameid": 3556969
+ },
+ {
+  "country": "CU",
+  "city": "camaguey",
+  "geonameid": 3566067
+ },
+ {
+  "country": "CV",
+  "city": "praia",
+  "geonameid": 3374333
+ },
+ {
+  "country": "CV",
+  "city": "mindelo",
+  "geonameid": 3374462
+ },
+ {
+  "country": "CV",
+  "city": "assomada",
+  "geonameid": 3374888
+ },
+ {
+  "country": "CV",
+  "city": "espargos",
+  "geonameid": 8521418
+ },
+ {
+  "country": "CW",
+  "city": "willemstad",
+  "geonameid": 3513090
+ },
+ {
+  "country": "CX",
+  "city": "flying_fish_cove",
+  "geonameid": 2078127
+ },
+ {
+  "country": "CY",
+  "city": "strovolos",
+  "geonameid": 146054
+ },
+ {
+  "country": "CY",
+  "city": "nicosia",
+  "geonameid": 146268
+ },
+ {
+  "country": "CY",
+  "city": "limassol",
+  "geonameid": 146384
+ },
+ {
+  "country": "CY",
+  "city": "larnaca",
+  "geonameid": 146400
+ },
+ {
+  "country": "CZ",
+  "city": "prague",
+  "geonameid": 3067696
+ },
+ {
+  "country": "CZ",
+  "city": "pilsen",
+  "geonameid": 3068160
+ },
+ {
+  "country": "CZ",
+  "city": "ostrava",
+  "geonameid": 3068799
+ },
+ {
+  "country": "CZ",
+  "city": "brno",
+  "geonameid": 3078610
+ },
+ {
+  "country": "DE",
+  "city": "munich",
+  "geonameid": 2867714
+ },
+ {
+  "country": "DE",
+  "city": "koln",
+  "geonameid": 2886242
+ },
+ {
+  "country": "DE",
+  "city": "hamburg",
+  "geonameid": 2911298
+ },
+ {
+  "country": "DE",
+  "city": "berlin",
+  "geonameid": 2950159
+ },
+ {
+  "country": "DJ",
+  "city": "tadjoura",
+  "geonameid": 220782
+ },
+ {
+  "country": "DJ",
+  "city": "djibouti",
+  "geonameid": 223817
+ },
+ {
+  "country": "DJ",
+  "city": "dikhil",
+  "geonameid": 223890
+ },
+ {
+  "country": "DJ",
+  "city": "ali_sabih",
+  "geonameid": 225284
+ },
+ {
+  "country": "DK",
+  "city": "odense",
+  "geonameid": 2615876
+ },
+ {
+  "country": "DK",
+  "city": "copenhagen",
+  "geonameid": 2618425
+ },
+ {
+  "country": "DK",
+  "city": "arhus",
+  "geonameid": 2624652
+ },
+ {
+  "country": "DK",
+  "city": "aalborg",
+  "geonameid": 2624886
+ },
+ {
+  "country": "DM",
+  "city": "roseau",
+  "geonameid": 3575635
+ },
+ {
+  "country": "DO",
+  "city": "santo_domingo",
+  "geonameid": 3492908
+ },
+ {
+  "country": "DO",
+  "city": "santiago_de_los_caballeros",
+  "geonameid": 3492914
+ },
+ {
+  "country": "DO",
+  "city": "santo_domingo_oeste",
+  "geonameid": 7874116
+ },
+ {
+  "country": "DO",
+  "city": "santo_domingo_este",
+  "geonameid": 8601412
+ },
+ {
+  "country": "DZ",
+  "city": "oran",
+  "geonameid": 2485926
+ },
+ {
+  "country": "DZ",
+  "city": "constantine",
+  "geonameid": 2501152
+ },
+ {
+  "country": "DZ",
+  "city": "annaba",
+  "geonameid": 2506999
+ },
+ {
+  "country": "DZ",
+  "city": "algiers",
+  "geonameid": 2507480
+ },
+ {
+  "country": "EC",
+  "city": "santo_domingo_de_los_colorados",
+  "geonameid": 3651297
+ },
+ {
+  "country": "EC",
+  "city": "quito",
+  "geonameid": 3652462
+ },
+ {
+  "country": "EC",
+  "city": "guayaquil",
+  "geonameid": 3657509
+ },
+ {
+  "country": "EC",
+  "city": "cuenca",
+  "geonameid": 3658666
+ },
+ {
+  "country": "EE",
+  "city": "tartu",
+  "geonameid": 588335
+ },
+ {
+  "country": "EE",
+  "city": "tallinn",
+  "geonameid": 588409
+ },
+ {
+  "country": "EE",
+  "city": "parnu",
+  "geonameid": 589580
+ },
+ {
+  "country": "EE",
+  "city": "narva",
+  "geonameid": 590031
+ },
+ {
+  "country": "EG",
+  "city": "shubra_al_khaymah",
+  "geonameid": 349076
+ },
+ {
+  "country": "EG",
+  "city": "cairo",
+  "geonameid": 360630
+ },
+ {
+  "country": "EG",
+  "city": "giza",
+  "geonameid": 360995
+ },
+ {
+  "country": "EG",
+  "city": "alexandria",
+  "geonameid": 361058
+ },
+ {
+  "country": "EH",
+  "city": "laayoune",
+  "geonameid": 2462881
+ },
+ {
+  "country": "EH",
+  "city": "boujdour",
+  "geonameid": 2463029
+ },
+ {
+  "country": "EH",
+  "city": "dakhla",
+  "geonameid": 2463447
+ },
+ {
+  "country": "ER",
+  "city": "massawa",
+  "geonameid": 330546
+ },
+ {
+  "country": "ER",
+  "city": "keren",
+  "geonameid": 333287
+ },
+ {
+  "country": "ER",
+  "city": "himora",
+  "geonameid": 334717
+ },
+ {
+  "country": "ER",
+  "city": "asmara",
+  "geonameid": 343300
+ },
+ {
+  "country": "ES",
+  "city": "valencia",
+  "geonameid": 2509954
+ },
+ {
+  "country": "ES",
+  "city": "telde",
+  "geonameid": 2510542
+ },
+ {
+  "country": "ES",
+  "city": "sevilla",
+  "geonameid": 2510911
+ },
+ {
+  "country": "ES",
+  "city": "santa_cruz_de_tenerife",
+  "geonameid": 2511174
+ },
+ {
+  "country": "ES",
+  "city": "la_laguna",
+  "geonameid": 2511401
+ },
+ {
+  "country": "ES",
+  "city": "las_palmas_de_gran_canaria",
+  "geonameid": 2515270
+ },
+ {
+  "country": "ES",
+  "city": "madrid",
+  "geonameid": 3117735
+ },
+ {
+  "country": "ES",
+  "city": "barcelona",
+  "geonameid": 3128760
+ },
+ {
+  "country": "ET",
+  "city": "mekele",
+  "geonameid": 331180
+ },
+ {
+  "country": "ET",
+  "city": "jijiga",
+  "geonameid": 333795
+ },
+ {
+  "country": "ET",
+  "city": "gonder",
+  "geonameid": 336014
+ },
+ {
+  "country": "ET",
+  "city": "addis_ababa",
+  "geonameid": 344979
+ },
+ {
+  "country": "FI",
+  "city": "tampere",
+  "geonameid": 634963
+ },
+ {
+  "country": "FI",
+  "city": "oulu",
+  "geonameid": 643492
+ },
+ {
+  "country": "FI",
+  "city": "helsinki",
+  "geonameid": 658225
+ },
+ {
+  "country": "FI",
+  "city": "espoo",
+  "geonameid": 660158
+ },
+ {
+  "country": "FJ",
+  "city": "suva",
+  "geonameid": 2198148
+ },
+ {
+  "country": "FJ",
+  "city": "nadi",
+  "geonameid": 2202064
+ },
+ {
+  "country": "FJ",
+  "city": "lautoka",
+  "geonameid": 2204506
+ },
+ {
+  "country": "FJ",
+  "city": "nasinu",
+  "geonameid": 8740209
+ },
+ {
+  "country": "FK",
+  "city": "stanley",
+  "geonameid": 3426691
+ },
+ {
+  "country": "FO",
+  "city": "torshavn",
+  "geonameid": 2611396
+ },
+ {
+  "country": "FR",
+  "city": "toulouse",
+  "geonameid": 2972315
+ },
+ {
+  "country": "FR",
+  "city": "paris",
+  "geonameid": 2988507
+ },
+ {
+  "country": "FR",
+  "city": "marseille",
+  "geonameid": 2995469
+ },
+ {
+  "country": "FR",
+  "city": "lyon",
+  "geonameid": 2996944
+ },
+ {
+  "country": "GA",
+  "city": "port_gentil",
+  "geonameid": 2396518
+ },
+ {
+  "country": "GA",
+  "city": "owendo",
+  "geonameid": 2396657
+ },
+ {
+  "country": "GA",
+  "city": "libreville",
+  "geonameid": 2399697
+ },
+ {
+  "country": "GA",
+  "city": "franceville",
+  "geonameid": 2400555
+ },
+ {
+  "country": "GB",
+  "city": "london",
+  "geonameid": 2643743
+ },
+ {
+  "country": "GB",
+  "city": "liverpool",
+  "geonameid": 2644210
+ },
+ {
+  "country": "GB",
+  "city": "glasgow",
+  "geonameid": 2648579
+ },
+ {
+  "country": "GB",
+  "city": "birmingham",
+  "geonameid": 2655603
+ },
+ {
+  "country": "GD",
+  "city": "saint_georges",
+  "geonameid": 3579925
+ },
+ {
+  "country": "GE",
+  "city": "tbilisi",
+  "geonameid": 611717
+ },
+ {
+  "country": "GE",
+  "city": "rustavi",
+  "geonameid": 612287
+ },
+ {
+  "country": "GE",
+  "city": "kutaisi",
+  "geonameid": 613607
+ },
+ {
+  "country": "GE",
+  "city": "batumi",
+  "geonameid": 615532
+ },
+ {
+  "country": "GF",
+  "city": "saint_laurent_du_maroni",
+  "geonameid": 3380387
+ },
+ {
+  "country": "GF",
+  "city": "matoury",
+  "geonameid": 3380965
+ },
+ {
+  "country": "GF",
+  "city": "kourou",
+  "geonameid": 3381303
+ },
+ {
+  "country": "GF",
+  "city": "cayenne",
+  "geonameid": 3382160
+ },
+ {
+  "country": "GG",
+  "city": "saint_peter_port",
+  "geonameid": 3042287
+ },
+ {
+  "country": "GH",
+  "city": "tamale",
+  "geonameid": 2294877
+ },
+ {
+  "country": "GH",
+  "city": "takoradi",
+  "geonameid": 2294915
+ },
+ {
+  "country": "GH",
+  "city": "kumasi",
+  "geonameid": 2298890
+ },
+ {
+  "country": "GH",
+  "city": "accra",
+  "geonameid": 2306104
+ },
+ {
+  "country": "GI",
+  "city": "gibraltar",
+  "geonameid": 2411585
+ },
+ {
+  "country": "GL",
+  "city": "nuuk",
+  "geonameid": 3421319
+ },
+ {
+  "country": "GM",
+  "city": "sukuta",
+  "geonameid": 2411880
+ },
+ {
+  "country": "GM",
+  "city": "serekunda",
+  "geonameid": 2411989
+ },
+ {
+  "country": "GM",
+  "city": "bununka_kunda",
+  "geonameid": 2413709
+ },
+ {
+  "country": "GM",
+  "city": "brikama",
+  "geonameid": 2413753
+ },
+ {
+  "country": "GN",
+  "city": "nzerekore",
+  "geonameid": 2416969
+ },
+ {
+  "country": "GN",
+  "city": "kankan",
+  "geonameid": 2419992
+ },
+ {
+  "country": "GN",
+  "city": "conakry",
+  "geonameid": 2422465
+ },
+ {
+  "country": "GN",
+  "city": "camayenne",
+  "geonameid": 2422488
+ },
+ {
+  "country": "GP",
+  "city": "petit_bourg",
+  "geonameid": 3578682
+ },
+ {
+  "country": "GP",
+  "city": "les_abymes",
+  "geonameid": 3578959
+ },
+ {
+  "country": "GP",
+  "city": "le_gosier",
+  "geonameid": 3578978
+ },
+ {
+  "country": "GP",
+  "city": "baie_mahault",
+  "geonameid": 3579767
+ },
+ {
+  "country": "GQ",
+  "city": "ebebiyin",
+  "geonameid": 2309332
+ },
+ {
+  "country": "GQ",
+  "city": "malabo",
+  "geonameid": 2309527
+ },
+ {
+  "country": "GQ",
+  "city": "bata",
+  "geonameid": 2310046
+ },
+ {
+  "country": "GR",
+  "city": "piraeus",
+  "geonameid": 255274
+ },
+ {
+  "country": "GR",
+  "city": "patra",
+  "geonameid": 255683
+ },
+ {
+  "country": "GR",
+  "city": "athens",
+  "geonameid": 264371
+ },
+ {
+  "country": "GR",
+  "city": "thessaloniki",
+  "geonameid": 734077
+ },
+ {
+  "country": "GS",
+  "city": "grytviken",
+  "geonameid": 3426466
+ },
+ {
+  "country": "GT",
+  "city": "villa_nueva",
+  "geonameid": 3587902
+ },
+ {
+  "country": "GT",
+  "city": "mixco",
+  "geonameid": 3592519
+ },
+ {
+  "country": "GT",
+  "city": "coban",
+  "geonameid": 3598119
+ },
+ {
+  "country": "GT",
+  "city": "guatemala_city",
+  "geonameid": 3598132
+ },
+ {
+  "country": "GU",
+  "city": "tamuning_tumon_harmon_village",
+  "geonameid": 4038659
+ },
+ {
+  "country": "GU",
+  "city": "yigo_village",
+  "geonameid": 4038794
+ },
+ {
+  "country": "GU",
+  "city": "dededo_village",
+  "geonameid": 4043909
+ },
+ {
+  "country": "GU",
+  "city": "tamuning",
+  "geonameid": 7874631
+ },
+ {
+  "country": "GW",
+  "city": "gabu",
+  "geonameid": 2372532
+ },
+ {
+  "country": "GW",
+  "city": "bissau",
+  "geonameid": 2374775
+ },
+ {
+  "country": "GW",
+  "city": "bafata",
+  "geonameid": 2375254
+ },
+ {
+  "country": "GY",
+  "city": "new_amsterdam",
+  "geonameid": 3376762
+ },
+ {
+  "country": "GY",
+  "city": "linden",
+  "geonameid": 3377408
+ },
+ {
+  "country": "GY",
+  "city": "georgetown",
+  "geonameid": 3378644
+ },
+ {
+  "country": "HK",
+  "city": "kowloon",
+  "geonameid": 1819609
+ },
+ {
+  "country": "HK",
+  "city": "hong_kong",
+  "geonameid": 1819729
+ },
+ {
+  "country": "HK",
+  "city": "new_territories",
+  "geonameid": 12747063
+ },
+ {
+  "country": "HK",
+  "city": "hong_kong_island",
+  "geonameid": 12747064
+ },
+ {
+  "country": "HN",
+  "city": "tegucigalpa",
+  "geonameid": 3600949
+ },
+ {
+  "country": "HN",
+  "city": "san_pedro_sula",
+  "geonameid": 3601782
+ },
+ {
+  "country": "HN",
+  "city": "la_ceiba",
+  "geonameid": 3608248
+ },
+ {
+  "country": "HN",
+  "city": "choloma",
+  "geonameid": 3613533
+ },
+ {
+  "country": "HR",
+  "city": "zagreb",
+  "geonameid": 3186886
+ },
+ {
+  "country": "HR",
+  "city": "split",
+  "geonameid": 3190261
+ },
+ {
+  "country": "HR",
+  "city": "rijeka",
+  "geonameid": 3191648
+ },
+ {
+  "country": "HR",
+  "city": "osijek",
+  "geonameid": 3193935
+ },
+ {
+  "country": "HT",
+  "city": "port_de_paix",
+  "geonameid": 3718420
+ },
+ {
+  "country": "HT",
+  "city": "port_au_prince",
+  "geonameid": 3718426
+ },
+ {
+  "country": "HT",
+  "city": "delmas",
+  "geonameid": 3726786
+ },
+ {
+  "country": "HT",
+  "city": "carrefour",
+  "geonameid": 3728338
+ },
+ {
+  "country": "HU",
+  "city": "szeged",
+  "geonameid": 715429
+ },
+ {
+  "country": "HU",
+  "city": "miskolc",
+  "geonameid": 717582
+ },
+ {
+  "country": "HU",
+  "city": "debrecen",
+  "geonameid": 721472
+ },
+ {
+  "country": "HU",
+  "city": "budapest",
+  "geonameid": 3054643
+ },
+ {
+  "country": "ID",
+  "city": "makassar",
+  "geonameid": 1622786
+ },
+ {
+  "country": "ID",
+  "city": "ternate",
+  "geonameid": 1624041
+ },
+ {
+  "country": "ID",
+  "city": "surabaya",
+  "geonameid": 1625822
+ },
+ {
+  "country": "ID",
+  "city": "sorong",
+  "geonameid": 1626542
+ },
+ {
+  "country": "ID",
+  "city": "samarinda",
+  "geonameid": 1629001
+ },
+ {
+  "country": "ID",
+  "city": "jakarta",
+  "geonameid": 1642911
+ },
+ {
+  "country": "ID",
+  "city": "denpasar",
+  "geonameid": 1645528
+ },
+ {
+  "country": "ID",
+  "city": "bekasi",
+  "geonameid": 1649378
+ },
+ {
+  "country": "ID",
+  "city": "bandung",
+  "geonameid": 1650357
+ },
+ {
+  "country": "ID",
+  "city": "balikpapan",
+  "geonameid": 1650527
+ },
+ {
+  "country": "ID",
+  "city": "ambon",
+  "geonameid": 1651531
+ },
+ {
+  "country": "ID",
+  "city": "jayapura",
+  "geonameid": 2082600
+ },
+ {
+  "country": "IE",
+  "city": "limerick",
+  "geonameid": 2962943
+ },
+ {
+  "country": "IE",
+  "city": "dublin",
+  "geonameid": 2964574
+ },
+ {
+  "country": "IE",
+  "city": "cork",
+  "geonameid": 2965140
+ },
+ {
+  "country": "IE",
+  "city": "south_dublin",
+  "geonameid": 6697759
+ },
+ {
+  "country": "IL",
+  "city": "jerusalem",
+  "geonameid": 281184
+ },
+ {
+  "country": "IL",
+  "city": "tel_aviv",
+  "geonameid": 293397
+ },
+ {
+  "country": "IL",
+  "city": "haifa",
+  "geonameid": 294801
+ },
+ {
+  "country": "IL",
+  "city": "west_jerusalem",
+  "geonameid": 7498240
+ },
+ {
+  "country": "IM",
+  "city": "douglas",
+  "geonameid": 3042237
+ },
+ {
+  "country": "IN",
+  "city": "hyderabad",
+  "geonameid": 1269843
+ },
+ {
+  "country": "IN",
+  "city": "delhi",
+  "geonameid": 1273294
+ },
+ {
+  "country": "IN",
+  "city": "mumbai",
+  "geonameid": 1275339
+ },
+ {
+  "country": "IN",
+  "city": "bengaluru",
+  "geonameid": 1277333
+ },
+ {
+  "country": "IQ",
+  "city": "baghdad",
+  "geonameid": 98182
+ },
+ {
+  "country": "IQ",
+  "city": "al_mawsil_al_jadidah",
+  "geonameid": 99071
+ },
+ {
+  "country": "IQ",
+  "city": "mosul",
+  "geonameid": 99072
+ },
+ {
+  "country": "IQ",
+  "city": "al_basrah_al_qadimah",
+  "geonameid": 388349
+ },
+ {
+  "country": "IR",
+  "city": "tehran",
+  "geonameid": 112931
+ },
+ {
+  "country": "IR",
+  "city": "mashhad",
+  "geonameid": 124665
+ },
+ {
+  "country": "IR",
+  "city": "karaj",
+  "geonameid": 128747
+ },
+ {
+  "country": "IR",
+  "city": "isfahan",
+  "geonameid": 418863
+ },
+ {
+  "country": "IS",
+  "city": "reykjavik",
+  "geonameid": 3413829
+ },
+ {
+  "country": "IS",
+  "city": "kopavogur",
+  "geonameid": 3415212
+ },
+ {
+  "country": "IS",
+  "city": "hafnarfjordur",
+  "geonameid": 3416706
+ },
+ {
+  "country": "IS",
+  "city": "reykjanesbaer",
+  "geonameid": 8644037
+ },
+ {
+  "country": "IT",
+  "city": "turin",
+  "geonameid": 3165524
+ },
+ {
+  "country": "IT",
+  "city": "rome",
+  "geonameid": 3169070
+ },
+ {
+  "country": "IT",
+  "city": "naples",
+  "geonameid": 3172394
+ },
+ {
+  "country": "IT",
+  "city": "milan",
+  "geonameid": 3173435
+ },
+ {
+  "country": "JE",
+  "city": "saint_helier",
+  "geonameid": 3042091
+ },
+ {
+  "country": "JM",
+  "city": "spanish_town",
+  "geonameid": 3488465
+ },
+ {
+  "country": "JM",
+  "city": "portmore",
+  "geonameid": 3488981
+ },
+ {
+  "country": "JM",
+  "city": "new_kingston",
+  "geonameid": 3489297
+ },
+ {
+  "country": "JM",
+  "city": "kingston",
+  "geonameid": 3489854
+ },
+ {
+  "country": "JO",
+  "city": "irbid",
+  "geonameid": 248946
+ },
+ {
+  "country": "JO",
+  "city": "zarqa",
+  "geonameid": 250090
+ },
+ {
+  "country": "JO",
+  "city": "amman",
+  "geonameid": 250441
+ },
+ {
+  "country": "JO",
+  "city": "russeifa",
+  "geonameid": 7838895
+ },
+ {
+  "country": "JP",
+  "city": "yokohama",
+  "geonameid": 1848354
+ },
+ {
+  "country": "JP",
+  "city": "tokyo",
+  "geonameid": 1850147
+ },
+ {
+  "country": "JP",
+  "city": "osaka",
+  "geonameid": 1853909
+ },
+ {
+  "country": "JP",
+  "city": "nagoya",
+  "geonameid": 1856057
+ },
+ {
+  "country": "KE",
+  "city": "nakuru",
+  "geonameid": 184622
+ },
+ {
+  "country": "KE",
+  "city": "nairobi",
+  "geonameid": 184745
+ },
+ {
+  "country": "KE",
+  "city": "mombasa",
+  "geonameid": 186301
+ },
+ {
+  "country": "KE",
+  "city": "kakamega",
+  "geonameid": 195272
+ },
+ {
+  "country": "KG",
+  "city": "osh",
+  "geonameid": 1527534
+ },
+ {
+  "country": "KG",
+  "city": "karakol",
+  "geonameid": 1528121
+ },
+ {
+  "country": "KG",
+  "city": "jalal_abad",
+  "geonameid": 1528249
+ },
+ {
+  "country": "KG",
+  "city": "bishkek",
+  "geonameid": 1528675
+ },
+ {
+  "country": "KH",
+  "city": "phnom_penh",
+  "geonameid": 1821306
+ },
+ {
+  "country": "KH",
+  "city": "takeo",
+  "geonameid": 1821940
+ },
+ {
+  "country": "KH",
+  "city": "siem_reap",
+  "geonameid": 1822214
+ },
+ {
+  "country": "KH",
+  "city": "battambang",
+  "geonameid": 1831797
+ },
+ {
+  "country": "KI",
+  "city": "tarawa",
+  "geonameid": 2110257
+ },
+ {
+  "country": "KM",
+  "city": "moutsamoudou",
+  "geonameid": 921753
+ },
+ {
+  "country": "KM",
+  "city": "moroni",
+  "geonameid": 921772
+ },
+ {
+  "country": "KM",
+  "city": "fomboni",
+  "geonameid": 921889
+ },
+ {
+  "country": "KN",
+  "city": "basseterre",
+  "geonameid": 3575551
+ },
+ {
+  "country": "KP",
+  "city": "sunchon",
+  "geonameid": 1869012
+ },
+ {
+  "country": "KP",
+  "city": "pyongyang",
+  "geonameid": 1871859
+ },
+ {
+  "country": "KP",
+  "city": "nampo",
+  "geonameid": 1873757
+ },
+ {
+  "country": "KP",
+  "city": "hamhung",
+  "geonameid": 1877449
+ },
+ {
+  "country": "KR",
+  "city": "daegu",
+  "geonameid": 1835329
+ },
+ {
+  "country": "KR",
+  "city": "seoul",
+  "geonameid": 1835848
+ },
+ {
+  "country": "KR",
+  "city": "busan",
+  "geonameid": 1838524
+ },
+ {
+  "country": "KR",
+  "city": "incheon",
+  "geonameid": 1843564
+ },
+ {
+  "country": "KW",
+  "city": "ḩawalli",
+  "geonameid": 285629
+ },
+ {
+  "country": "KW",
+  "city": "as_salimiyah",
+  "geonameid": 285704
+ },
+ {
+  "country": "KW",
+  "city": "al_aḩmadi",
+  "geonameid": 285839
+ },
+ {
+  "country": "KW",
+  "city": "sabaḩ_as_salim",
+  "geonameid": 412800
+ },
+ {
+  "country": "KY",
+  "city": "west_bay",
+  "geonameid": 3580477
+ },
+ {
+  "country": "KY",
+  "city": "george_town",
+  "geonameid": 3580661
+ },
+ {
+  "country": "KZ",
+  "city": "karagandy",
+  "geonameid": 609655
+ },
+ {
+  "country": "KZ",
+  "city": "aktobe",
+  "geonameid": 610611
+ },
+ {
+  "country": "KZ",
+  "city": "taraz",
+  "geonameid": 1516905
+ },
+ {
+  "country": "KZ",
+  "city": "shymkent",
+  "geonameid": 1518980
+ },
+ {
+  "country": "KZ",
+  "city": "almaty",
+  "geonameid": 1526384
+ },
+ {
+  "country": "LA",
+  "city": "vientiane",
+  "geonameid": 1651944
+ },
+ {
+  "country": "LA",
+  "city": "savannakhet",
+  "geonameid": 1653316
+ },
+ {
+  "country": "LA",
+  "city": "pakse",
+  "geonameid": 1654379
+ },
+ {
+  "country": "LA",
+  "city": "thakhek",
+  "geonameid": 1655199
+ },
+ {
+  "country": "LB",
+  "city": "tripoli",
+  "geonameid": 266826
+ },
+ {
+  "country": "LB",
+  "city": "sidon",
+  "geonameid": 268064
+ },
+ {
+  "country": "LB",
+  "city": "ras_bayrut",
+  "geonameid": 268743
+ },
+ {
+  "country": "LB",
+  "city": "beirut",
+  "geonameid": 276781
+ },
+ {
+  "country": "LC",
+  "city": "gros_islet",
+  "geonameid": 3576686
+ },
+ {
+  "country": "LC",
+  "city": "castries",
+  "geonameid": 3576812
+ },
+ {
+  "country": "LI",
+  "city": "vaduz",
+  "geonameid": 3042030
+ },
+ {
+  "country": "LK",
+  "city": "dehiwala_mount_lavinia",
+  "geonameid": 1234569
+ },
+ {
+  "country": "LK",
+  "city": "maharagama",
+  "geonameid": 1236854
+ },
+ {
+  "country": "LK",
+  "city": "jaffna",
+  "geonameid": 1242833
+ },
+ {
+  "country": "LK",
+  "city": "colombo",
+  "geonameid": 1248991
+ },
+ {
+  "country": "LR",
+  "city": "monrovia",
+  "geonameid": 2274895
+ },
+ {
+  "country": "LR",
+  "city": "gbarnga",
+  "geonameid": 2277060
+ },
+ {
+  "country": "LR",
+  "city": "ganta",
+  "geonameid": 2277241
+ },
+ {
+  "country": "LR",
+  "city": "buchanan",
+  "geonameid": 2278158
+ },
+ {
+  "country": "LS",
+  "city": "mohales_hoek",
+  "geonameid": 932438
+ },
+ {
+  "country": "LS",
+  "city": "maseru",
+  "geonameid": 932505
+ },
+ {
+  "country": "LS",
+  "city": "maputsoe",
+  "geonameid": 932521
+ },
+ {
+  "country": "LS",
+  "city": "mafeteng",
+  "geonameid": 932614
+ },
+ {
+  "country": "LT",
+  "city": "vilnius",
+  "geonameid": 593116
+ },
+ {
+  "country": "LT",
+  "city": "siauliai",
+  "geonameid": 594739
+ },
+ {
+  "country": "LT",
+  "city": "klaipeda",
+  "geonameid": 598098
+ },
+ {
+  "country": "LT",
+  "city": "kaunas",
+  "geonameid": 598316
+ },
+ {
+  "country": "LU",
+  "city": "luxembourg",
+  "geonameid": 2960316
+ },
+ {
+  "country": "LU",
+  "city": "esch_sur_alzette",
+  "geonameid": 2960596
+ },
+ {
+  "country": "LU",
+  "city": "dudelange",
+  "geonameid": 2960634
+ },
+ {
+  "country": "LV",
+  "city": "riga",
+  "geonameid": 456172
+ },
+ {
+  "country": "LV",
+  "city": "liepaja",
+  "geonameid": 457954
+ },
+ {
+  "country": "LV",
+  "city": "jelgava",
+  "geonameid": 459279
+ },
+ {
+  "country": "LV",
+  "city": "daugavpils",
+  "geonameid": 460413
+ },
+ {
+  "country": "LY",
+  "city": "benghazi",
+  "geonameid": 88319
+ },
+ {
+  "country": "LY",
+  "city": "zliten",
+  "geonameid": 2208485
+ },
+ {
+  "country": "LY",
+  "city": "tripoli",
+  "geonameid": 2210247
+ },
+ {
+  "country": "LY",
+  "city": "misratah",
+  "geonameid": 2214846
+ },
+ {
+  "country": "MA",
+  "city": "tangier",
+  "geonameid": 2530335
+ },
+ {
+  "country": "MA",
+  "city": "rabat",
+  "geonameid": 2538475
+ },
+ {
+  "country": "MA",
+  "city": "fes",
+  "geonameid": 2548885
+ },
+ {
+  "country": "MA",
+  "city": "casablanca",
+  "geonameid": 2553604
+ },
+ {
+  "country": "MC",
+  "city": "monte_carlo",
+  "geonameid": 2992741
+ },
+ {
+  "country": "MC",
+  "city": "monaco",
+  "geonameid": 2993458
+ },
+ {
+  "country": "MD",
+  "city": "tiraspol",
+  "geonameid": 617239
+ },
+ {
+  "country": "MD",
+  "city": "chisinau",
+  "geonameid": 618426
+ },
+ {
+  "country": "MD",
+  "city": "bender",
+  "geonameid": 618577
+ },
+ {
+  "country": "MD",
+  "city": "balti",
+  "geonameid": 618605
+ },
+ {
+  "country": "ME",
+  "city": "podgorica",
+  "geonameid": 3193044
+ },
+ {
+  "country": "ME",
+  "city": "pljevlja",
+  "geonameid": 3193161
+ },
+ {
+  "country": "ME",
+  "city": "niksic",
+  "geonameid": 3194494
+ },
+ {
+  "country": "ME",
+  "city": "herceg_novi",
+  "geonameid": 3199394
+ },
+ {
+  "country": "MF",
+  "city": "marigot",
+  "geonameid": 3578851
+ },
+ {
+  "country": "MG",
+  "city": "toamasina",
+  "geonameid": 1053384
+ },
+ {
+  "country": "MG",
+  "city": "mahajanga",
+  "geonameid": 1062663
+ },
+ {
+  "country": "MG",
+  "city": "antsirabe",
+  "geonameid": 1069166
+ },
+ {
+  "country": "MG",
+  "city": "antananarivo",
+  "geonameid": 1070940
+ },
+ {
+  "country": "MH",
+  "city": "majuro",
+  "geonameid": 2113779
+ },
+ {
+  "country": "MH",
+  "city": "rmi_capitol",
+  "geonameid": 7874852
+ },
+ {
+  "country": "MK",
+  "city": "skopje",
+  "geonameid": 785842
+ },
+ {
+  "country": "MK",
+  "city": "prilep",
+  "geonameid": 786735
+ },
+ {
+  "country": "MK",
+  "city": "kumanovo",
+  "geonameid": 788886
+ },
+ {
+  "country": "MK",
+  "city": "bitola",
+  "geonameid": 792578
+ },
+ {
+  "country": "ML",
+  "city": "sikasso",
+  "geonameid": 2451185
+ },
+ {
+  "country": "ML",
+  "city": "segou",
+  "geonameid": 2451478
+ },
+ {
+  "country": "ML",
+  "city": "koutiala",
+  "geonameid": 2454268
+ },
+ {
+  "country": "ML",
+  "city": "bamako",
+  "geonameid": 2460596
+ },
+ {
+  "country": "MM",
+  "city": "yangon",
+  "geonameid": 1298824
+ },
+ {
+  "country": "MM",
+  "city": "mawlamyine",
+  "geonameid": 1308465
+ },
+ {
+  "country": "MM",
+  "city": "mandalay",
+  "geonameid": 1311874
+ },
+ {
+  "country": "MM",
+  "city": "nay_pyi_taw",
+  "geonameid": 6611854
+ },
+ {
+  "country": "MN",
+  "city": "ulaangom",
+  "geonameid": 1515029
+ },
+ {
+  "country": "MN",
+  "city": "olgii",
+  "geonameid": 1515436
+ },
+ {
+  "country": "MN",
+  "city": "khovd",
+  "geonameid": 1516048
+ },
+ {
+  "country": "MN",
+  "city": "altai",
+  "geonameid": 1516393
+ },
+ {
+  "country": "MN",
+  "city": "ulan_bator",
+  "geonameid": 2028462
+ },
+ {
+  "country": "MN",
+  "city": "moron",
+  "geonameid": 2029945
+ },
+ {
+  "country": "MN",
+  "city": "erdenet",
+  "geonameid": 2031405
+ },
+ {
+  "country": "MN",
+  "city": "darhan",
+  "geonameid": 2031964
+ },
+ {
+  "country": "MO",
+  "city": "taipa",
+  "geonameid": 1821263
+ },
+ {
+  "country": "MO",
+  "city": "macau",
+  "geonameid": 1821274
+ },
+ {
+  "country": "MO",
+  "city": "lai_chi_van",
+  "geonameid": 1821279
+ },
+ {
+  "country": "MO",
+  "city": "luhuan",
+  "geonameid": 1821292
+ },
+ {
+  "country": "MP",
+  "city": "saipan",
+  "geonameid": 7828758
+ },
+ {
+  "country": "MQ",
+  "city": "sainte_marie",
+  "geonameid": 3569926
+ },
+ {
+  "country": "MQ",
+  "city": "le_robert",
+  "geonameid": 3570412
+ },
+ {
+  "country": "MQ",
+  "city": "le_lamentin",
+  "geonameid": 3570428
+ },
+ {
+  "country": "MQ",
+  "city": "fort_de_france",
+  "geonameid": 3570675
+ },
+ {
+  "country": "MR",
+  "city": "nouakchott",
+  "geonameid": 2377450
+ },
+ {
+  "country": "MR",
+  "city": "nouadhibou",
+  "geonameid": 2377457
+ },
+ {
+  "country": "MR",
+  "city": "kiffa",
+  "geonameid": 2378538
+ },
+ {
+  "country": "MR",
+  "city": "dar_naim",
+  "geonameid": 11496397
+ },
+ {
+  "country": "MS",
+  "city": "plymouth",
+  "geonameid": 3578069
+ },
+ {
+  "country": "MS",
+  "city": "brades",
+  "geonameid": 7266440
+ },
+ {
+  "country": "MT",
+  "city": "sliema",
+  "geonameid": 2562501
+ },
+ {
+  "country": "MT",
+  "city": "san_pawl_il_bahar",
+  "geonameid": 2562541
+ },
+ {
+  "country": "MT",
+  "city": "mosta",
+  "geonameid": 2562704
+ },
+ {
+  "country": "MT",
+  "city": "birkirkara",
+  "geonameid": 2563191
+ },
+ {
+  "country": "MU",
+  "city": "vacoas",
+  "geonameid": 933945
+ },
+ {
+  "country": "MU",
+  "city": "port_louis",
+  "geonameid": 934154
+ },
+ {
+  "country": "MU",
+  "city": "curepipe",
+  "geonameid": 934570
+ },
+ {
+  "country": "MU",
+  "city": "beau_bassin_rose_hill",
+  "geonameid": 934765
+ },
+ {
+  "country": "MV",
+  "city": "male",
+  "geonameid": 1282027
+ },
+ {
+  "country": "MW",
+  "city": "zomba",
+  "geonameid": 923295
+ },
+ {
+  "country": "MW",
+  "city": "mzuzu",
+  "geonameid": 925475
+ },
+ {
+  "country": "MW",
+  "city": "lilongwe",
+  "geonameid": 927967
+ },
+ {
+  "country": "MW",
+  "city": "blantyre",
+  "geonameid": 931755
+ },
+ {
+  "country": "MX",
+  "city": "reynosa",
+  "geonameid": 3520339
+ },
+ {
+  "country": "MX",
+  "city": "puebla",
+  "geonameid": 3521081
+ },
+ {
+  "country": "MX",
+  "city": "playa_del_carmen",
+  "geonameid": 3521342
+ },
+ {
+  "country": "MX",
+  "city": "nuevo_laredo",
+  "geonameid": 3522551
+ },
+ {
+  "country": "MX",
+  "city": "heroica_matamoros",
+  "geonameid": 3523466
+ },
+ {
+  "country": "MX",
+  "city": "iztapalapa",
+  "geonameid": 3526683
+ },
+ {
+  "country": "MX",
+  "city": "cozumel",
+  "geonameid": 3530103
+ },
+ {
+  "country": "MX",
+  "city": "mexico_city",
+  "geonameid": 3530597
+ },
+ {
+  "country": "MX",
+  "city": "chetumal",
+  "geonameid": 3531023
+ },
+ {
+  "country": "MX",
+  "city": "cancun",
+  "geonameid": 3531673
+ },
+ {
+  "country": "MX",
+  "city": "tijuana",
+  "geonameid": 3981609
+ },
+ {
+  "country": "MX",
+  "city": "rosarito",
+  "geonameid": 3988392
+ },
+ {
+  "country": "MX",
+  "city": "piedras_negras",
+  "geonameid": 3992619
+ },
+ {
+  "country": "MX",
+  "city": "mexicali",
+  "geonameid": 3996069
+ },
+ {
+  "country": "MX",
+  "city": "leon_de_los_aldama",
+  "geonameid": 3998655
+ },
+ {
+  "country": "MX",
+  "city": "hermosillo",
+  "geonameid": 4004898
+ },
+ {
+  "country": "MX",
+  "city": "ensenada",
+  "geonameid": 4006702
+ },
+ {
+  "country": "MX",
+  "city": "ciudad_obregon",
+  "geonameid": 4013704
+ },
+ {
+  "country": "MX",
+  "city": "ciudad_juarez",
+  "geonameid": 4013708
+ },
+ {
+  "country": "MY",
+  "city": "johor_bahru",
+  "geonameid": 1732752
+ },
+ {
+  "country": "MY",
+  "city": "klang",
+  "geonameid": 1732905
+ },
+ {
+  "country": "MY",
+  "city": "petaling_jaya",
+  "geonameid": 1735158
+ },
+ {
+  "country": "MY",
+  "city": "kuala_lumpur",
+  "geonameid": 1735161
+ },
+ {
+  "country": "MZ",
+  "city": "nampula",
+  "geonameid": 1033356
+ },
+ {
+  "country": "MZ",
+  "city": "matola",
+  "geonameid": 1039854
+ },
+ {
+  "country": "MZ",
+  "city": "maputo",
+  "geonameid": 1040652
+ },
+ {
+  "country": "MZ",
+  "city": "beira",
+  "geonameid": 1052373
+ },
+ {
+  "country": "NA",
+  "city": "windhoek",
+  "geonameid": 3352136
+ },
+ {
+  "country": "NA",
+  "city": "swakopmund",
+  "geonameid": 3352844
+ },
+ {
+  "country": "NA",
+  "city": "rundu",
+  "geonameid": 3353383
+ },
+ {
+  "country": "NA",
+  "city": "walvis_bay",
+  "geonameid": 3359638
+ },
+ {
+  "country": "NC",
+  "city": "noumea",
+  "geonameid": 2139521
+ },
+ {
+  "country": "NC",
+  "city": "mont_dore",
+  "geonameid": 2140066
+ },
+ {
+  "country": "NC",
+  "city": "dumbea",
+  "geonameid": 2141394
+ },
+ {
+  "country": "NE",
+  "city": "zinder",
+  "geonameid": 2437798
+ },
+ {
+  "country": "NE",
+  "city": "tahoua",
+  "geonameid": 2439376
+ },
+ {
+  "country": "NE",
+  "city": "niamey",
+  "geonameid": 2440485
+ },
+ {
+  "country": "NE",
+  "city": "maradi",
+  "geonameid": 2441291
+ },
+ {
+  "country": "NF",
+  "city": "kingston",
+  "geonameid": 2161314
+ },
+ {
+  "country": "NG",
+  "city": "lagos",
+  "geonameid": 2332459
+ },
+ {
+  "country": "NG",
+  "city": "kano",
+  "geonameid": 2335204
+ },
+ {
+  "country": "NG",
+  "city": "ibadan",
+  "geonameid": 2339354
+ },
+ {
+  "country": "NG",
+  "city": "abuja",
+  "geonameid": 2352778
+ },
+ {
+  "country": "NI",
+  "city": "masaya",
+  "geonameid": 3617723
+ },
+ {
+  "country": "NI",
+  "city": "managua",
+  "geonameid": 3617763
+ },
+ {
+  "country": "NI",
+  "city": "leon",
+  "geonameid": 3618030
+ },
+ {
+  "country": "NI",
+  "city": "chinandega",
+  "geonameid": 3620381
+ },
+ {
+  "country": "NL",
+  "city": "utrecht",
+  "geonameid": 2745912
+ },
+ {
+  "country": "NL",
+  "city": "the_hague",
+  "geonameid": 2747373
+ },
+ {
+  "country": "NL",
+  "city": "rotterdam",
+  "geonameid": 2747891
+ },
+ {
+  "country": "NL",
+  "city": "amsterdam",
+  "geonameid": 2759794
+ },
+ {
+  "country": "NO",
+  "city": "trondheim",
+  "geonameid": 3133880
+ },
+ {
+  "country": "NO",
+  "city": "stavanger",
+  "geonameid": 3137115
+ },
+ {
+  "country": "NO",
+  "city": "oslo",
+  "geonameid": 3143244
+ },
+ {
+  "country": "NO",
+  "city": "bergen",
+  "geonameid": 3161732
+ },
+ {
+  "country": "NP",
+  "city": "patan",
+  "geonameid": 1282931
+ },
+ {
+  "country": "NP",
+  "city": "kathmandu",
+  "geonameid": 1283240
+ },
+ {
+  "country": "NP",
+  "city": "birganj",
+  "geonameid": 1283581
+ },
+ {
+  "country": "NP",
+  "city": "bharatpur",
+  "geonameid": 1283613
+ },
+ {
+  "country": "NR",
+  "city": "yaren",
+  "geonameid": 7626461
+ },
+ {
+  "country": "NU",
+  "city": "alofi",
+  "geonameid": 4036284
+ },
+ {
+  "country": "NZ",
+  "city": "wellington",
+  "geonameid": 2179537
+ },
+ {
+  "country": "NZ",
+  "city": "manukau_city",
+  "geonameid": 2187404
+ },
+ {
+  "country": "NZ",
+  "city": "christchurch",
+  "geonameid": 2192362
+ },
+ {
+  "country": "NZ",
+  "city": "auckland",
+  "geonameid": 2193733
+ },
+ {
+  "country": "OM",
+  "city": "muscat",
+  "geonameid": 287286
+ },
+ {
+  "country": "OM",
+  "city": "ibri",
+  "geonameid": 287830
+ },
+ {
+  "country": "OM",
+  "city": "bawshar",
+  "geonameid": 288764
+ },
+ {
+  "country": "OM",
+  "city": "seeb",
+  "geonameid": 288967
+ },
+ {
+  "country": "PA",
+  "city": "san_miguelito",
+  "geonameid": 3701329
+ },
+ {
+  "country": "PA",
+  "city": "panama",
+  "geonameid": 3703443
+ },
+ {
+  "country": "PA",
+  "city": "juan_diaz",
+  "geonameid": 3708306
+ },
+ {
+  "country": "PA",
+  "city": "david",
+  "geonameid": 3711668
+ },
+ {
+  "country": "PE",
+  "city": "trujillo",
+  "geonameid": 3691175
+ },
+ {
+  "country": "PE",
+  "city": "lima",
+  "geonameid": 3936456
+ },
+ {
+  "country": "PE",
+  "city": "callao",
+  "geonameid": 3946083
+ },
+ {
+  "country": "PE",
+  "city": "arequipa",
+  "geonameid": 3947322
+ },
+ {
+  "country": "PF",
+  "city": "punaauia",
+  "geonameid": 4033779
+ },
+ {
+  "country": "PF",
+  "city": "papeete",
+  "geonameid": 4033936
+ },
+ {
+  "country": "PF",
+  "city": "faaa",
+  "geonameid": 4034561
+ },
+ {
+  "country": "PG",
+  "city": "port_moresby",
+  "geonameid": 2088122
+ },
+ {
+  "country": "PG",
+  "city": "popondetta",
+  "geonameid": 2088163
+ },
+ {
+  "country": "PG",
+  "city": "mount_hagen",
+  "geonameid": 2090409
+ },
+ {
+  "country": "PG",
+  "city": "lae",
+  "geonameid": 2092740
+ },
+ {
+  "country": "PG",
+  "city": "arawa",
+  "geonameid": 2100633
+ },
+ {
+  "country": "PH",
+  "city": "quezon_city",
+  "geonameid": 1692192
+ },
+ {
+  "country": "PH",
+  "city": "manila",
+  "geonameid": 1701668
+ },
+ {
+  "country": "PH",
+  "city": "davao",
+  "geonameid": 1715348
+ },
+ {
+  "country": "PH",
+  "city": "caloocan_city",
+  "geonameid": 1720151
+ },
+ {
+  "country": "PK",
+  "city": "rawalpindi",
+  "geonameid": 1166993
+ },
+ {
+  "country": "PK",
+  "city": "lahore",
+  "geonameid": 1172451
+ },
+ {
+  "country": "PK",
+  "city": "karachi",
+  "geonameid": 1174872
+ },
+ {
+  "country": "PK",
+  "city": "faisalabad",
+  "geonameid": 1179400
+ },
+ {
+  "country": "PL",
+  "city": "warsaw",
+  "geonameid": 756135
+ },
+ {
+  "country": "PL",
+  "city": "wroclaw",
+  "geonameid": 3081368
+ },
+ {
+  "country": "PL",
+  "city": "lodz",
+  "geonameid": 3093133
+ },
+ {
+  "country": "PL",
+  "city": "krakow",
+  "geonameid": 3094802
+ },
+ {
+  "country": "PM",
+  "city": "saint_pierre",
+  "geonameid": 3424934
+ },
+ {
+  "country": "PN",
+  "city": "adamstown",
+  "geonameid": 4030723
+ },
+ {
+  "country": "PR",
+  "city": "bayamon",
+  "geonameid": 4562831
+ },
+ {
+  "country": "PR",
+  "city": "carolina",
+  "geonameid": 4563243
+ },
+ {
+  "country": "PR",
+  "city": "ponce",
+  "geonameid": 4566880
+ },
+ {
+  "country": "PR",
+  "city": "san_juan",
+  "geonameid": 4568127
+ },
+ {
+  "country": "PS",
+  "city": "east_jerusalem",
+  "geonameid": 7303419
+ },
+ {
+  "country": "PT",
+  "city": "lisbon",
+  "geonameid": 2267057
+ },
+ {
+  "country": "PT",
+  "city": "amadora",
+  "geonameid": 2271772
+ },
+ {
+  "country": "PT",
+  "city": "porto",
+  "geonameid": 2735943
+ },
+ {
+  "country": "PT",
+  "city": "braga",
+  "geonameid": 2742032
+ },
+ {
+  "country": "PT",
+  "city": "ponta_delgada",
+  "geonameid": 6941014
+ },
+ {
+  "country": "PW",
+  "city": "ngerulmud",
+  "geonameid": 8063361
+ },
+ {
+  "country": "PY",
+  "city": "san_lorenzo",
+  "geonameid": 3437056
+ },
+ {
+  "country": "PY",
+  "city": "ciudad_del_este",
+  "geonameid": 3439101
+ },
+ {
+  "country": "PY",
+  "city": "capiata",
+  "geonameid": 3439214
+ },
+ {
+  "country": "PY",
+  "city": "asuncion",
+  "geonameid": 3439389
+ },
+ {
+  "country": "QA",
+  "city": "ar_rayyan",
+  "geonameid": 289888
+ },
+ {
+  "country": "QA",
+  "city": "doha",
+  "geonameid": 290030
+ },
+ {
+  "country": "QA",
+  "city": "al_mansurah",
+  "geonameid": 411759
+ },
+ {
+  "country": "QA",
+  "city": "al_matar_al_atiq",
+  "geonameid": 12242643
+ },
+ {
+  "country": "RE",
+  "city": "saint_pierre",
+  "geonameid": 935214
+ },
+ {
+  "country": "RE",
+  "city": "saint_paul",
+  "geonameid": 935221
+ },
+ {
+  "country": "RE",
+  "city": "saint_denis",
+  "geonameid": 935264
+ },
+ {
+  "country": "RE",
+  "city": "le_tampon",
+  "geonameid": 935582
+ },
+ {
+  "country": "RO",
+  "city": "iasi",
+  "geonameid": 675810
+ },
+ {
+  "country": "RO",
+  "city": "bucharest",
+  "geonameid": 683506
+ },
+ {
+  "country": "RO",
+  "city": "sector_3",
+  "geonameid": 11048319
+ },
+ {
+  "country": "RO",
+  "city": "sector_6",
+  "geonameid": 11048323
+ },
+ {
+  "country": "RS",
+  "city": "zemun",
+  "geonameid": 783920
+ },
+ {
+  "country": "RS",
+  "city": "nis",
+  "geonameid": 787657
+ },
+ {
+  "country": "RS",
+  "city": "belgrade",
+  "geonameid": 792680
+ },
+ {
+  "country": "RS",
+  "city": "novi_sad",
+  "geonameid": 3194360
+ },
+ {
+  "country": "RU",
+  "city": "ufa",
+  "geonameid": 479561
+ },
+ {
+  "country": "RU",
+  "city": "tolyatti",
+  "geonameid": 482283
+ },
+ {
+  "country": "RU",
+  "city": "sovetsk",
+  "geonameid": 490068
+ },
+ {
+  "country": "RU",
+  "city": "saint_petersburg",
+  "geonameid": 498817
+ },
+ {
+  "country": "RU",
+  "city": "samara",
+  "geonameid": 499099
+ },
+ {
+  "country": "RU",
+  "city": "perm",
+  "geonameid": 511196
+ },
+ {
+  "country": "RU",
+  "city": "nizhniy_novgorod",
+  "geonameid": 520555
+ },
+ {
+  "country": "RU",
+  "city": "moscow",
+  "geonameid": 524901
+ },
+ {
+  "country": "RU",
+  "city": "kazan",
+  "geonameid": 551487
+ },
+ {
+  "country": "RU",
+  "city": "kaliningrad",
+  "geonameid": 554234
+ },
+ {
+  "country": "RU",
+  "city": "izhevsk",
+  "geonameid": 554840
+ },
+ {
+  "country": "RU",
+  "city": "chernyakhovsk",
+  "geonameid": 568595
+ },
+ {
+  "country": "RU",
+  "city": "yekaterinburg",
+  "geonameid": 1486209
+ },
+ {
+  "country": "RU",
+  "city": "tara",
+  "geonameid": 1490140
+ },
+ {
+  "country": "RU",
+  "city": "omsk",
+  "geonameid": 1496153
+ },
+ {
+  "country": "RU",
+  "city": "novosibirsk",
+  "geonameid": 1496747
+ },
+ {
+  "country": "RU",
+  "city": "kalachinsk",
+  "geonameid": 1505074
+ },
+ {
+  "country": "RU",
+  "city": "isilkul",
+  "geonameid": 1505438
+ },
+ {
+  "country": "RU",
+  "city": "chelyabinsk",
+  "geonameid": 1508291
+ },
+ {
+  "country": "RU",
+  "city": "vladivostok",
+  "geonameid": 2013348
+ },
+ {
+  "country": "RU",
+  "city": "ulan_ude",
+  "geonameid": 2014407
+ },
+ {
+  "country": "RU",
+  "city": "komsomolsk_on_amur",
+  "geonameid": 2021851
+ },
+ {
+  "country": "RU",
+  "city": "khabarovsk",
+  "geonameid": 2022890
+ },
+ {
+  "country": "RU",
+  "city": "irkutsk",
+  "geonameid": 2023469
+ },
+ {
+  "country": "RU",
+  "city": "chita",
+  "geonameid": 2025339
+ },
+ {
+  "country": "RU",
+  "city": "angarsk",
+  "geonameid": 2027667
+ },
+ {
+  "country": "RU",
+  "city": "bratsk",
+  "geonameid": 2051523
+ },
+ {
+  "country": "RU",
+  "city": "khabarovsk_vtoroy",
+  "geonameid": 2056752
+ },
+ {
+  "country": "RU",
+  "city": "vilyuchinsk",
+  "geonameid": 2118647
+ },
+ {
+  "country": "RU",
+  "city": "yuzhno_sakhalinsk",
+  "geonameid": 2119441
+ },
+ {
+  "country": "RU",
+  "city": "yelizovo",
+  "geonameid": 2119538
+ },
+ {
+  "country": "RU",
+  "city": "petropavlovsk_kamchatsky",
+  "geonameid": 2122104
+ },
+ {
+  "country": "RU",
+  "city": "korsakov",
+  "geonameid": 2124286
+ },
+ {
+  "country": "RU",
+  "city": "kholmsk",
+  "geonameid": 2124615
+ },
+ {
+  "country": "RU",
+  "city": "baltiysk",
+  "geonameid": 2609906
+ },
+ {
+  "country": "RW",
+  "city": "kigali",
+  "geonameid": 202061
+ },
+ {
+  "country": "RW",
+  "city": "gitarama",
+  "geonameid": 202217
+ },
+ {
+  "country": "RW",
+  "city": "gisenyi",
+  "geonameid": 202905
+ },
+ {
+  "country": "RW",
+  "city": "butare",
+  "geonameid": 203112
+ },
+ {
+  "country": "SA",
+  "city": "makkah",
+  "geonameid": 104515
+ },
+ {
+  "country": "SA",
+  "city": "jeddah",
+  "geonameid": 105343
+ },
+ {
+  "country": "SA",
+  "city": "riyadh",
+  "geonameid": 108410
+ },
+ {
+  "country": "SA",
+  "city": "medina",
+  "geonameid": 109223
+ },
+ {
+  "country": "SB",
+  "city": "honiara",
+  "geonameid": 2108502
+ },
+ {
+  "country": "SC",
+  "city": "victoria",
+  "geonameid": 241131
+ },
+ {
+  "country": "SD",
+  "city": "omdurman",
+  "geonameid": 365137
+ },
+ {
+  "country": "SD",
+  "city": "nyala",
+  "geonameid": 369004
+ },
+ {
+  "country": "SD",
+  "city": "khartoum_north",
+  "geonameid": 379251
+ },
+ {
+  "country": "SD",
+  "city": "khartoum",
+  "geonameid": 379252
+ },
+ {
+  "country": "SE",
+  "city": "uppsala",
+  "geonameid": 2666199
+ },
+ {
+  "country": "SE",
+  "city": "stockholm",
+  "geonameid": 2673730
+ },
+ {
+  "country": "SE",
+  "city": "malmo",
+  "geonameid": 2692969
+ },
+ {
+  "country": "SE",
+  "city": "goteborg",
+  "geonameid": 2711537
+ },
+ {
+  "country": "SG",
+  "city": "ulu_bedok",
+  "geonameid": 1880159
+ },
+ {
+  "country": "SG",
+  "city": "tampines_estate",
+  "geonameid": 1880216
+ },
+ {
+  "country": "SG",
+  "city": "singapore",
+  "geonameid": 1880252
+ },
+ {
+  "country": "SG",
+  "city": "bedok_new_town",
+  "geonameid": 1884382
+ },
+ {
+  "country": "SH",
+  "city": "jamestown",
+  "geonameid": 3370903
+ },
+ {
+  "country": "SI",
+  "city": "maribor",
+  "geonameid": 3195506
+ },
+ {
+  "country": "SI",
+  "city": "ljubljana",
+  "geonameid": 3196359
+ },
+ {
+  "country": "SI",
+  "city": "kranj",
+  "geonameid": 3197378
+ },
+ {
+  "country": "SI",
+  "city": "celje",
+  "geonameid": 3202781
+ },
+ {
+  "country": "SJ",
+  "city": "longyearbyen",
+  "geonameid": 2729907
+ },
+ {
+  "country": "SK",
+  "city": "presov",
+  "geonameid": 723819
+ },
+ {
+  "country": "SK",
+  "city": "kosice",
+  "geonameid": 724443
+ },
+ {
+  "country": "SK",
+  "city": "nitra",
+  "geonameid": 3058531
+ },
+ {
+  "country": "SK",
+  "city": "bratislava",
+  "geonameid": 3060972
+ },
+ {
+  "country": "SL",
+  "city": "koidu",
+  "geonameid": 2407656
+ },
+ {
+  "country": "SL",
+  "city": "kenema",
+  "geonameid": 2407790
+ },
+ {
+  "country": "SL",
+  "city": "freetown",
+  "geonameid": 2409306
+ },
+ {
+  "country": "SL",
+  "city": "bo",
+  "geonameid": 2410048
+ },
+ {
+  "country": "SM",
+  "city": "san_marino",
+  "geonameid": 3168070
+ },
+ {
+  "country": "SN",
+  "city": "touba",
+  "geonameid": 2244322
+ },
+ {
+  "country": "SN",
+  "city": "pikine",
+  "geonameid": 2246678
+ },
+ {
+  "country": "SN",
+  "city": "dakar",
+  "geonameid": 2253354
+ },
+ {
+  "country": "SN",
+  "city": "guediawaye",
+  "geonameid": 2595778
+ },
+ {
+  "country": "SO",
+  "city": "mogadishu",
+  "geonameid": 53654
+ },
+ {
+  "country": "SO",
+  "city": "hargeysa",
+  "geonameid": 57289
+ },
+ {
+  "country": "SO",
+  "city": "borama",
+  "geonameid": 64021
+ },
+ {
+  "country": "SO",
+  "city": "berbera",
+  "geonameid": 64435
+ },
+ {
+  "country": "SR",
+  "city": "paramaribo",
+  "geonameid": 3383330
+ },
+ {
+  "country": "SR",
+  "city": "lelydorp",
+  "geonameid": 3383714
+ },
+ {
+  "country": "SS",
+  "city": "yei",
+  "geonameid": 363619
+ },
+ {
+  "country": "SS",
+  "city": "winejok",
+  "geonameid": 363807
+ },
+ {
+  "country": "SS",
+  "city": "malakal",
+  "geonameid": 370737
+ },
+ {
+  "country": "SS",
+  "city": "juba",
+  "geonameid": 373303
+ },
+ {
+  "country": "ST",
+  "city": "sao_tome",
+  "geonameid": 2410763
+ },
+ {
+  "country": "SV",
+  "city": "soyapango",
+  "geonameid": 3583096
+ },
+ {
+  "country": "SV",
+  "city": "santa_ana",
+  "geonameid": 3583334
+ },
+ {
+  "country": "SV",
+  "city": "san_salvador",
+  "geonameid": 3583361
+ },
+ {
+  "country": "SV",
+  "city": "san_miguel",
+  "geonameid": 3583446
+ },
+ {
+  "country": "SX",
+  "city": "philipsburg",
+  "geonameid": 3513392
+ },
+ {
+  "country": "SY",
+  "city": "homs",
+  "geonameid": 169577
+ },
+ {
+  "country": "SY",
+  "city": "aleppo",
+  "geonameid": 170063
+ },
+ {
+  "country": "SY",
+  "city": "damascus",
+  "geonameid": 170654
+ },
+ {
+  "country": "SY",
+  "city": "latakia",
+  "geonameid": 173576
+ },
+ {
+  "country": "SZ",
+  "city": "mbabane",
+  "geonameid": 934985
+ },
+ {
+  "country": "SZ",
+  "city": "manzini",
+  "geonameid": 934995
+ },
+ {
+  "country": "SZ",
+  "city": "lobamba",
+  "geonameid": 935048
+ },
+ {
+  "country": "TC",
+  "city": "cockburn_town",
+  "geonameid": 3576994
+ },
+ {
+  "country": "TD",
+  "city": "abeche",
+  "geonameid": 245785
+ },
+ {
+  "country": "TD",
+  "city": "sarh",
+  "geonameid": 2425791
+ },
+ {
+  "country": "TD",
+  "city": "n_djamena",
+  "geonameid": 2427123
+ },
+ {
+  "country": "TD",
+  "city": "moundou",
+  "geonameid": 2427455
+ },
+ {
+  "country": "TF",
+  "city": "port_aux_francais",
+  "geonameid": 1546102
+ },
+ {
+  "country": "TG",
+  "city": "sokode",
+  "geonameid": 2364104
+ },
+ {
+  "country": "TG",
+  "city": "lome",
+  "geonameid": 2365267
+ },
+ {
+  "country": "TG",
+  "city": "kara",
+  "geonameid": 2366152
+ },
+ {
+  "country": "TG",
+  "city": "atakpame",
+  "geonameid": 2367886
+ },
+ {
+  "country": "TH",
+  "city": "samut_prakan",
+  "geonameid": 1606590
+ },
+ {
+  "country": "TH",
+  "city": "mueang_nonthaburi",
+  "geonameid": 1608133
+ },
+ {
+  "country": "TH",
+  "city": "bangkok",
+  "geonameid": 1609350
+ },
+ {
+  "country": "TH",
+  "city": "chon_buri",
+  "geonameid": 1611110
+ },
+ {
+  "country": "TJ",
+  "city": "istaravshan",
+  "geonameid": 1220253
+ },
+ {
+  "country": "TJ",
+  "city": "kulob",
+  "geonameid": 1221194
+ },
+ {
+  "country": "TJ",
+  "city": "dushanbe",
+  "geonameid": 1221874
+ },
+ {
+  "country": "TJ",
+  "city": "isfara",
+  "geonameid": 1514896
+ },
+ {
+  "country": "TL",
+  "city": "suai",
+  "geonameid": 1626459
+ },
+ {
+  "country": "TL",
+  "city": "maliana",
+  "geonameid": 1636670
+ },
+ {
+  "country": "TL",
+  "city": "likisa",
+  "geonameid": 1637730
+ },
+ {
+  "country": "TL",
+  "city": "dili",
+  "geonameid": 1645457
+ },
+ {
+  "country": "TM",
+  "city": "ashgabat",
+  "geonameid": 162183
+ },
+ {
+  "country": "TM",
+  "city": "dasoguz",
+  "geonameid": 601734
+ },
+ {
+  "country": "TM",
+  "city": "mary",
+  "geonameid": 1218667
+ },
+ {
+  "country": "TM",
+  "city": "turkmenabat",
+  "geonameid": 1219649
+ },
+ {
+  "country": "TN",
+  "city": "tunis",
+  "geonameid": 2464470
+ },
+ {
+  "country": "TN",
+  "city": "sousse",
+  "geonameid": 2464915
+ },
+ {
+  "country": "TN",
+  "city": "sfax",
+  "geonameid": 2467454
+ },
+ {
+  "country": "TN",
+  "city": "kairouan",
+  "geonameid": 2473449
+ },
+ {
+  "country": "TO",
+  "city": "nuku_alofa",
+  "geonameid": 4032402
+ },
+ {
+  "country": "TR",
+  "city": "izmir",
+  "geonameid": 311046
+ },
+ {
+  "country": "TR",
+  "city": "ankara",
+  "geonameid": 323786
+ },
+ {
+  "country": "TR",
+  "city": "istanbul",
+  "geonameid": 745044
+ },
+ {
+  "country": "TR",
+  "city": "bursa",
+  "geonameid": 750269
+ },
+ {
+  "country": "TT",
+  "city": "san_fernando",
+  "geonameid": 3573738
+ },
+ {
+  "country": "TT",
+  "city": "port_of_spain",
+  "geonameid": 3573890
+ },
+ {
+  "country": "TT",
+  "city": "mon_repos",
+  "geonameid": 3574116
+ },
+ {
+  "country": "TT",
+  "city": "chaguanas",
+  "geonameid": 3574810
+ },
+ {
+  "country": "TV",
+  "city": "funafuti",
+  "geonameid": 2110394
+ },
+ {
+  "country": "TW",
+  "city": "taipei",
+  "geonameid": 1668341
+ },
+ {
+  "country": "TW",
+  "city": "taichung",
+  "geonameid": 1668399
+ },
+ {
+  "country": "TW",
+  "city": "kaohsiung",
+  "geonameid": 1673820
+ },
+ {
+  "country": "TW",
+  "city": "new_taipei_city",
+  "geonameid": 12908892
+ },
+ {
+  "country": "TZ",
+  "city": "zanzibar",
+  "geonameid": 148730
+ },
+ {
+  "country": "TZ",
+  "city": "mwanza",
+  "geonameid": 152224
+ },
+ {
+  "country": "TZ",
+  "city": "dodoma",
+  "geonameid": 160196
+ },
+ {
+  "country": "TZ",
+  "city": "dar_es_salaam",
+  "geonameid": 160263
+ },
+ {
+  "country": "UA",
+  "city": "yevpatoriya",
+  "geonameid": 688105
+ },
+ {
+  "country": "UA",
+  "city": "simferopol",
+  "geonameid": 693805
+ },
+ {
+  "country": "UA",
+  "city": "sevastopol",
+  "geonameid": 694423
+ },
+ {
+  "country": "UA",
+  "city": "odesa",
+  "geonameid": 698740
+ },
+ {
+  "country": "UA",
+  "city": "kyiv",
+  "geonameid": 703448
+ },
+ {
+  "country": "UA",
+  "city": "kharkiv",
+  "geonameid": 706483
+ },
+ {
+  "country": "UA",
+  "city": "kerch",
+  "geonameid": 706524
+ },
+ {
+  "country": "UA",
+  "city": "dnipro",
+  "geonameid": 709930
+ },
+ {
+  "country": "UG",
+  "city": "kira",
+  "geonameid": 231165
+ },
+ {
+  "country": "UG",
+  "city": "kampala",
+  "geonameid": 232422
+ },
+ {
+  "country": "UG",
+  "city": "bunamwaya",
+  "geonameid": 234179
+ },
+ {
+  "country": "UG",
+  "city": "nansana",
+  "geonameid": 10943053
+ },
+ {
+  "country": "US",
+  "city": "philadelphia",
+  "geonameid": 4560349
+ },
+ {
+  "country": "US",
+  "city": "dallas",
+  "geonameid": 4684888
+ },
+ {
+  "country": "US",
+  "city": "houston",
+  "geonameid": 4699066
+ },
+ {
+  "country": "US",
+  "city": "san_antonio",
+  "geonameid": 4726206
+ },
+ {
+  "country": "US",
+  "city": "chicago",
+  "geonameid": 4887398
+ },
+ {
+  "country": "US",
+  "city": "brooklyn",
+  "geonameid": 5110302
+ },
+ {
+  "country": "US",
+  "city": "new_york_city",
+  "geonameid": 5128581
+ },
+ {
+  "country": "US",
+  "city": "queens",
+  "geonameid": 5133273
+ },
+ {
+  "country": "US",
+  "city": "chandler",
+  "geonameid": 5289282
+ },
+ {
+  "country": "US",
+  "city": "mesa",
+  "geonameid": 5304391
+ },
+ {
+  "country": "US",
+  "city": "phoenix",
+  "geonameid": 5308655
+ },
+ {
+  "country": "US",
+  "city": "tucson",
+  "geonameid": 5318313
+ },
+ {
+  "country": "US",
+  "city": "los_angeles",
+  "geonameid": 5368361
+ },
+ {
+  "country": "US",
+  "city": "san_diego",
+  "geonameid": 5391811
+ },
+ {
+  "country": "US",
+  "city": "san_francisco",
+  "geonameid": 5391959
+ },
+ {
+  "country": "US",
+  "city": "san_jose",
+  "geonameid": 5392171
+ },
+ {
+  "country": "US",
+  "city": "colorado_springs",
+  "geonameid": 5417598
+ },
+ {
+  "country": "US",
+  "city": "denver",
+  "geonameid": 5419384
+ },
+ {
+  "country": "US",
+  "city": "albuquerque",
+  "geonameid": 5454711
+ },
+ {
+  "country": "US",
+  "city": "el_paso",
+  "geonameid": 5520993
+ },
+ {
+  "country": "US",
+  "city": "pearl_city",
+  "geonameid": 5852275
+ },
+ {
+  "country": "US",
+  "city": "honolulu",
+  "geonameid": 5856195
+ },
+ {
+  "country": "US",
+  "city": "eagle_river",
+  "geonameid": 5861187
+ },
+ {
+  "country": "US",
+  "city": "fairbanks",
+  "geonameid": 5861897
+ },
+ {
+  "country": "US",
+  "city": "anchorage",
+  "geonameid": 5879400
+ },
+ {
+  "country": "US",
+  "city": "east_honolulu",
+  "geonameid": 7315245
+ },
+ {
+  "country": "US",
+  "city": "makakilo_kapolei_honokai_hale",
+  "geonameid": 13100439
+ },
+ {
+  "country": "UY",
+  "city": "salto",
+  "geonameid": 3440714
+ },
+ {
+  "country": "UY",
+  "city": "paysandu",
+  "geonameid": 3441243
+ },
+ {
+  "country": "UY",
+  "city": "montevideo",
+  "geonameid": 3441575
+ },
+ {
+  "country": "UY",
+  "city": "las_piedras",
+  "geonameid": 3442057
+ },
+ {
+  "country": "UZ",
+  "city": "tashkent",
+  "geonameid": 1512569
+ },
+ {
+  "country": "UZ",
+  "city": "namangan",
+  "geonameid": 1513157
+ },
+ {
+  "country": "UZ",
+  "city": "andijon",
+  "geonameid": 1514588
+ },
+ {
+  "country": "VA",
+  "city": "vatican_city",
+  "geonameid": 6691831
+ },
+ {
+  "country": "VC",
+  "city": "kingstown",
+  "geonameid": 3577887
+ },
+ {
+  "country": "VC",
+  "city": "calliaqua",
+  "geonameid": 3748746
+ },
+ {
+  "country": "VE",
+  "city": "valencia",
+  "geonameid": 3625549
+ },
+ {
+  "country": "VE",
+  "city": "maracay",
+  "geonameid": 3632998
+ },
+ {
+  "country": "VE",
+  "city": "maracaibo",
+  "geonameid": 3633009
+ },
+ {
+  "country": "VE",
+  "city": "caracas",
+  "geonameid": 3646738
+ },
+ {
+  "country": "VG",
+  "city": "road_town",
+  "geonameid": 3577430
+ },
+ {
+  "country": "VI",
+  "city": "charlotte_amalie",
+  "geonameid": 4795467
+ },
+ {
+  "country": "VI",
+  "city": "saint_croix",
+  "geonameid": 4796512
+ },
+ {
+  "country": "VN",
+  "city": "ho_chi_minh_city",
+  "geonameid": 1566083
+ },
+ {
+  "country": "VN",
+  "city": "da_nang",
+  "geonameid": 1583992
+ },
+ {
+  "country": "VN",
+  "city": "cần_thơ",
+  "geonameid": 1586203
+ },
+ {
+  "country": "VN",
+  "city": "bien_hoa",
+  "geonameid": 1587923
+ },
+ {
+  "country": "VU",
+  "city": "port_vila",
+  "geonameid": 2135171
+ },
+ {
+  "country": "WF",
+  "city": "mata_utu",
+  "geonameid": 4034821
+ },
+ {
+  "country": "WS",
+  "city": "apia",
+  "geonameid": 4035413
+ },
+ {
+  "country": "YE",
+  "city": "taiz",
+  "geonameid": 70225
+ },
+ {
+  "country": "YE",
+  "city": "sanaa",
+  "geonameid": 71137
+ },
+ {
+  "country": "YE",
+  "city": "al_ḩudaydah",
+  "geonameid": 79415
+ },
+ {
+  "country": "YE",
+  "city": "aden",
+  "geonameid": 415189
+ },
+ {
+  "country": "YT",
+  "city": "mamoudzou",
+  "geonameid": 921815
+ },
+ {
+  "country": "YT",
+  "city": "koungou",
+  "geonameid": 1090225
+ },
+ {
+  "country": "YT",
+  "city": "kaoueni",
+  "geonameid": 1090239
+ },
+ {
+  "country": "YT",
+  "city": "labattoir",
+  "geonameid": 1090275
+ },
+ {
+  "country": "ZA",
+  "city": "pretoria",
+  "geonameid": 964137
+ },
+ {
+  "country": "ZA",
+  "city": "johannesburg",
+  "geonameid": 993800
+ },
+ {
+  "country": "ZA",
+  "city": "durban",
+  "geonameid": 1007311
+ },
+ {
+  "country": "ZA",
+  "city": "cape_town",
+  "geonameid": 3369157
+ },
+ {
+  "country": "ZM",
+  "city": "ndola",
+  "geonameid": 901344
+ },
+ {
+  "country": "ZM",
+  "city": "lusaka",
+  "geonameid": 909137
+ },
+ {
+  "country": "ZM",
+  "city": "kitwe",
+  "geonameid": 911148
+ },
+ {
+  "country": "ZM",
+  "city": "chipata",
+  "geonameid": 918702
+ },
+ {
+  "country": "ZW",
+  "city": "mutare",
+  "geonameid": 884979
+ },
+ {
+  "country": "ZW",
+  "city": "harare",
+  "geonameid": 890299
+ },
+ {
+  "country": "ZW",
+  "city": "bulawayo",
+  "geonameid": 894701
+ },
+ {
+  "country": "ZW",
+  "city": "chitungwiza",
+  "geonameid": 1106542
+ }
+]
